@@ -1,0 +1,2882 @@
+[
+    {
+        "word": "abandon",
+        "definition": "To give up or cease supporting or pursuing something, often due to lack of success or interest.",
+        "common_forms": ["abandon", "abandoned", "abandoning", "abandons"],
+        "frequency": "40.23",
+        "examples": {
+            "Linguistics (S19)": {
+                "stance": "Procedures Findings",
+                "text": "Near the conclusion to her study, she abandons attempts to stretch the word read and adopts play as a 'generic verb for text processing activities.'"
+            }
+        }
+    },
+    {
+        "word": "accept",
+        "definition": "To acknowledge or agree to something as valid or true, often without objection or resistance.",
+        "common_forms": ["accept", "accepted", "accepting", "accepts"],
+        "frequency": "155.31",
+        "examples": {
+            "History": {
+                "stance": "Neutral",
+                "text": "Thompson’s critical opposition to modern labor-capital relations, in turn, became fundamental to the subsequent literature, as many scholars accepted the idea that the diffusion of work-based time discipline was merely another baleful consequence of the worldwide expansion of industrial capitalism."
+            },
+            "Political Science": {
+                "stance": "Positive",
+                "text": "That the earlier stabilizing power of social cleavages has been weakening is now a widely accepted explanation for the increased volatility of electoral results of West European countries."
+            },
+            "Unspecified (Background Sections)": {
+                "stance": "Neutral",
+                "text": "While the origins of these social cleavages have been debated extensively (usually in this journal), it is generally accepted that social identities shape political values."
+            }
+        }
+    },
+    {
+        "word": "address",
+        "definition": "To deal with or discuss a particular issue, often by giving attention to it or offering solutions or responses.",
+        "common_forms": ["address", "addressed", "addresses", "addressing"],
+        "frequency": "260.77",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Factive (Assurance)",
+                "text": "The studies have addressed student reactions to a corpus-based lesson (Sun, 2000), the importance of training students in the corpus approach for their own use (Turnbull & Burston, 1998), and the effectiveness of independent corpus investigations (Kennedy & Miceli, 2001; Fan & Xu, 2002)."
+            },
+            "History": {
+                "stance": "Non-factive (Assurance)",
+                "text": "To a lesser extent, historians have also addressed indigenous responses to these European initiatives and perceptions."
+            },
+            "Philosophy": {
+                "stance": "Non-factive (Assurance)",
+                "text": "There have been few attempts by virtue ethicists, however, directly to address the issue of moral status."
+            },
+            "Physics": {
+                "stance": "Non-factive (Assurance)",
+                "text": "In addition to being discussed by Schrodinger in incisive detail in his original article [1], Zitterbewegung in the four-component Dirac basis has been extensively addressed in books devoted to the Dirac equation, such as Rose [9] and Thaller [10] (who summarizes Schrodinger’s approach and references many of the important papers on the subject), as well as by Honl and Papapetrou [11] in a paper that first analyzes Zitterbewegung in detail and then attempts to mimic the effects of Zitterbewegung with a mechanical model based on a classical point charge."
+            },
+            "Political Science": {
+                "stance": "Procedures (Findings)",
+                "text": "Typically, scholars address group identification, but they do not give the other three components of group consciousness much attention."
+            }
+        }
+    },
+    {
+        "word": "admit",
+        "definition": "To acknowledge or accept something as true or valid, often reluctantly or with reluctance.",
+        "common_forms": ["admit", "admitted", "admitting", "admits"],
+        "frequency": "16.49",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Factive (Assurance)",
+                "text": "Although Dauer shows by examination of interstress intervals in several languages that there is no instrumental evidence for the stress-timed/syllable-timed dichotomy in speech production, she admits that a so-called syllable-timed language like Spanish and a stress-timed language like English do sound different rhythmically."
+            }
+        }
+    },
+    {
+        "word": "adopt",
+        "definition": "To take on or accept something as one’s own, often by formal or official means.",
+        "common_forms": ["adopt", "adopted", "adopting", "adopts"],
+        "frequency": "37.33",
+        "examples": {
+            "Philosophy": {
+                "stance": "Factive (Assurance)",
+                "text": "Macfarlane Burnet, a virologist by training, adopted 'ecology' as part of a grand view of biology in which he hoped to situate immunology beyond the narrow confines of immunochemistry (Tauber 1994, Crist and Tauber 2000)."
+            }
+        }
+    },
+    {
+        "word": "advocate",
+        "definition": "To publicly support or recommend a particular cause, policy, or action, often through persuasion or argument.",
+        "common_forms": ["advocate", "advocated", "advocates", "advocating"],
+        "frequency": "41.56",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Factive (Assurance)",
+                "text": "While some advocate separate ESL writing courses to address L2 students’ particular needs (Braine, 1993, 1996; McKay, 1981), others contend that ESL students can benefit from being in writing classes with native English speakers (Matsuda & Silva, 1999; Roy, 1984, 1988)."
+            },
+            "Philosophy": {
+                "stance": "Factive (Assurance)",
+                "text": "Criticizing the individualistic approach for failing to accommodate conservation concerns for ecological wholes such as species and ecosystems, J. Baird Callicott has advocated a version of Leopoldian land-ethical holism which considers the Earth’s biotic community per se as the sole locus of intrinsic value."
+            },
+            "Political Science": {
+                "stance": "Positive",
+                "text": "A minority of aid staff—mostly, sociologists and social anthropologists like me—had long advocated this alternative, less travelled road."
+            }
+        }
+    },
+    {
+        "word": "agree",
+        "definition": "To have the same opinion or belief as someone else, often through mutual understanding or consensus.",
+        "common_forms": ["agree", "agreed", "agreeing", "agrees"],
+        "frequency": "151.5",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Positive",
+                "text": "Jenkins (2000), for example, considering non-native speaker interactions, does not include speech rhythm in her lingua franca core, although she does agree that, based on evidence from her own research, it appears to be crucial to lengthen stressed and tonic syllables to improve intelligibility in English."
+            },
+            "History": {
+                "stance": "Positive",
+                "text": "They have, moreover, tended to agree that his work consisted largely in restoring the procedures that distinguished the auditing sessions of that body, that his role was that of a technocrat."
+            },
+            "Physics": {
+                "stance": "Factive (Assurance)",
+                "text": "In addition, small-angle neutron scattering (SANS) studies by Dettenmaier and GoodsaidZalduondo and Engelman and Raman studies by Fischer agree that the influence of intermolecular interactions on individual monomer conformation in the liquid state is negligible and that the conformations of n-alkanes in the condensed phase are similar to those populated in isolation."
+            },
+            "Political Science": {
+                "stance": "Positive",
+                "text": "Most scholars agree on the importance of fiscal equalization and of cohesive policies and programs to reinforce social ties in a context of politically fragmented and socially polarized communities (Polse, 2000: 324–25)."
+            }
+        }
+    },
+    {
+        "word": "analyze",
+        "definition": "To examine or study something closely and methodically, often by breaking it down into its constituent parts or elements.",
+        "common_forms": ["analyse", "analyses", "analysed", "analyze", "analyzed", "analyzes", "analysing", "analyzing"],
+        "frequency": "159.03",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Procedures (Findings)",
+                "text": "Jackendoff (1995) analysed a small corpus of TV quiz show language and concluded that formulaic sequences may be of equal if not greater significance than the lexicon of single words."
+            },
+            "Biology": {
+                "stance": "Procedures (Findings)",
+                "text": "Ferreira et al. (2005) recently analyzed deforestation rates within uninhabited reserves, indigenous lands, and unprotected lands for three Amazon states but did not conduct a rigorous comparison of deforestation inhibition by the two types of reserves."
+            },
+            "Physics": {
+                "stance": "Procedures (Findings)",
+                "text": "The case of the two-dimensional flat space has been analyzed along similar lines in [11]."
+            },
+            "Political Science": {
+                "stance": "Procedures (Findings)",
+                "text": "Caldwell (1982) in his theory of ‘wealth transfer’ analyses how fertility is affected when the economy moves from traditional economy towards modern economy."
+            }
+        }
+    },
+    {
+        "word": "appear",
+        "definition": "To seem or give the impression of being a certain way, often based on outward appearances or behaviors.",
+        "common_forms": ["appear", "appeared", "appearing", "appears"],
+        "frequency": "345.46",
+        "examples": {
+            "Philosophy": {
+                "stance": "Positive",
+                "text": "Similarly, Shoemaker (1994) appears to think that IEM offers us insight into self-knowledge without presupposing a notion of infallible access."
+            },
+            "Political Science": {
+                "stance": "Procedures (Findings)",
+                "text": "Recently, this work has begun to appear in development economics and development studies with its theoretical roots located in the works of Sen’s capabilities approach."
+            }
+        }
+    },
+    {
+        "word": "apply",
+        "definition": "To use or implement something in a specific situation or context, often in order to achieve a particular goal or outcome.",
+        "common_forms": ["applied", "applies", "apply", "applying"],
+        "frequency": "238.29",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Procedures (Findings)",
+                "text": "Taglieber, Johnson, and Yarbrough (1988) applied a schema view of reading, assigning Brazilian college students to one of four pre-reading groups: pictorial context, vocabulary pre-teaching, prequestioning, and a control."
+            },
+            "Political Science": {
+                "stance": "Tentative (Doubt)",
+                "text": "In developing this argument I draw on a concept that has been quite influential in the scholarship on public policy making in developed countries but has rarely, if ever, been applied to Latin America: the 'issue-attention cycle'."
+            }
+        }
+    },
+    {
+        "word": "argue",
+        "definition": "To present reasons or evidence in support of a particular idea or viewpoint, often in a persuasive manner, in order to convince others of its validity.",
+        "common_forms": ["argue", "argued", "argues", "arguing"],
+        "frequency": "263.31",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Factive (Assurance)",
+                "text": "Also working from a semiotic perspective, but firmly rooted in the seminal work of C.S. Peirce (1839–1914), Siegel (1995) and Semali (2002) have also argued for the educational advantages of what they call transmediation, that is, the generative process of translating meaning from one system of signs to another."
+            },
+            "History": {
+                "stance": "Factive (Assurance)",
+                "text": "However, it might be argued that, given the needs endemic to the job of kingship, he was nothing more than perspicacious."
+            },
+            "Philosophy": {
+                "stance": "Non-factive (Assurance)",
+                "text": "Carrying the project of attributing intrinsic value to nature to its ultimate form, Robert Elliot argues that natural things – whether they are individuals, collectives, physical objects, states of affairs, events or processes – are all intrinsically valuable simply because naturalness itself is a 'value-adding' property."
+            },
+            "Physics": {
+                "stance": "Factive (Assurance)",
+                "text": "Unfortunately, the agreement with experiment is not always good,22 and it has been argued that the bowing values obtained within the VCA are not even unique."
+            },
+            "Political Science": {
+                "stance": "Tentative (Doubt)",
+                "text": "Whilst economists can argue that experiences and expectations tend to be processed adaptively or rationally, it is equally likely that they are to some extent subjective and could be based on particular events in an individual’s lifetime."
+            }
+        }
+    },
+    {
+        "word": "ask",
+        "definition": "To pose a question or make an inquiry, often in order to seek information or clarification.",
+        "common_forms": ["ask", "asked", "asking", "asks"],
+        "frequency": "365.76",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Tentative (Doubt)",
+                "text": "In conclusion, Dauer (1983) asks whether we are justified in using the terms stress timed and syllable-timed at all, if it is the case that syllable structure, vowel reduction, and word stress, rather than aspects timing, make a language nearer to one or the other category."
+            },
+            "Philosophy": {
+                "stance": "Non-factive (Assurance)",
+                "text": "He asks: If you do not really believe in the existence of truth, what is the passion for truthfulness a passion for? Or as we might also put it in pursuing truthfulness, what are you supposedly being true to? This is not an abstract difficulty or just a paradox."
+            }
+        }
+    },
+    {
+        "word": "assert",
+        "definition": "To state or declare something forcefully or confidently, often without providing evidence or justification.",
+        "common_forms": ["assert", "asserted", "asserting", "asserts"],
+        "frequency": "64.68",
+        "examples": {
+            "History": {
+                "stance": "Non-factive (Assurance)",
+                "text": "Although the flow of scholarship on the social and cultural impact of decolonization on metropolitan Britain has increased since Stuart Ward asserted in 2001 that 'No attempt has been made to examine the cultural manifestations of the demise of imperialism as a social and political ideology in post-war Britain,' there has yet to be extensive treatment of the experiences of returning colonial administrators, both during decolonization and before."
+            },
+            "Philosophy": {
+                "stance": "Factive (Assurance)",
+                "text": "In the first of the three papers Weyl asserts that, since the wave function of the electron 'can only involve two components,' two components of the solution of the Dirac equation should be ascribed to the electron and two to the proton [16]."
+            },
+            "Political Science": {
+                "stance": "Factive (Assurance)",
+                "text": "In fact, the most prominent alternative approach, Sabatier’s Advocacy Coalition Framework (ACF) largely embraces the punctuated equilibrium model when explaining agenda setting, but asserts that the policy process is better conceptualized as a series of interactions between groups than as a series of transitions between stages (Sabatier and Jenkins-Smith 1993)."
+            }
+        }
+    },
+    {
+        "word": "assess",
+        "definition": "To evaluate or judge the nature, quality, or significance of something, often by careful examination or analysis.",
+        "common_forms": ["assess", "assessed", "assesses", "assessing"],
+        "frequency": "203.85",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Procedures (Findings)",
+                "text": "Most of the inferencing studies did not assess background knowledge or ‘difficulty’ in guessing, which may provide insight on individual differences in strategies or outcomes."
+            },
+            "History": {
+                "stance": "Procedures (Findings)",
+                "text": "Davis has recently examined European narratives of environmental decline in North Africa in the nineteenth and twentieth centuries, while David Arnold and Paul Carter have assessed European responses to unfamiliar landscapes and how such landscapes became objects of desire, fear, and mastery in India and Australia respectively."
+            },
+            "Political Science": {
+                "stance": "Procedures (Findings)",
+                "text": "Another study, which considered the 1997 NSGVP only, assessed differences between Quebecers and other Canadians using retrospective questions about respondents’ voluntary activity during their adolescence (Curtis et al., 2003)."
+            }
+        }
+    },
+    {
+        "word": "assess",
+        "definition": "To evaluate or judge the nature, quality, or significance of something, often by careful examination or analysis.",
+        "common_forms": ["assess", "assessed", "assesses", "assessing"],
+        "frequency": "203.85",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Procedures (Findings)",
+                "text": "Most of the inferencing studies did not assess background knowledge or ‘difficulty’ in guessing, which may provide insight on individual differences in strategies or outcomes."
+            },
+            "History": {
+                "stance": "Procedures (Findings)",
+                "text": "Davis has recently examined European narratives of environmental decline in North Africa in the nineteenth and twentieth centuries, while David Arnold and Paul Carter have assessed European responses to unfamiliar landscapes and how such landscapes became objects of desire, fear, and mastery in India and Australia respectively."
+            },
+            "Political Science": {
+                "stance": "Procedures (Findings)",
+                "text": "Another study, which considered the 1997 NSGVP only, assessed differences between Quebecers and other Canadians using retrospective questions about respondents’ voluntary activity during their adolescence (Curtis et al., 2003)."
+            }
+        }
+    },
+    {
+        "word": "assume",
+        "definition": "To take for granted or accept as true without proof, often as a basis for further reasoning or investigation.",
+        "common_forms": ["assume", "assumed", "assuming", "assumes"],
+        "frequency": "159.18",
+        "examples": {
+            "History": {
+                "stance": "Tentative",
+                "text": "It sometimes has been assumed that by an unspecified process, some barbarians, perhaps only military officers, became Roman citizens."
+            },
+            "Philosophy": {
+                "stance": "Positive",
+                "text": "It is often assumed that if Mary learns something genuinely new upon seeing red for the first time (that is, does not merely come to understand in a different way something she already knows), then physicalism is false."
+            },
+            "Physics": {
+                "stance": "Positive",
+                "text": "In the continuum model, it is assumed that there is a small hole of radius r cut from the system center, located at the origin, on which a vortex is pinned."
+            },
+            "Political Science": {
+                "stance": "Critical",
+                "text": "This assumes that satisfaction is determined by how the budget is spent but does not consider that other factors determine satisfaction apart from consumption."
+            }
+        }
+    },
+    {
+        "word": "attempt",
+        "definition": "To try or make an effort to achieve something, often with the possibility of success or failure.",
+        "common_forms": ["attempt", "attempted", "attempting", "attempts"],
+        "frequency": "252.12",
+        "examples": {
+            "Political Science": {
+                "stance": "Tentative (Doubt)",
+                "text": "Researchers focusing on grammar attempt to map out the agents and recipients of action, and what types of power relationships these structures imply."
+            }
+        }
+    },
+    {
+        "word": "attribute",
+        "definition": "To ascribe or assign a quality or characteristic to something, often in order to explain its cause or origin.",
+        "common_forms": ["attribute", "attributed", "attributes", "attributing"],
+        "frequency": "61.3",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Positive",
+                "text": "He attributes this in part to the influences of the students’ second language cultural backgrounds, claiming that “L2 writers from other cultures may be reluctant to promote an individual self” (Hyland, 2002, p. 1111)."
+            },
+            "History": {
+                "stance": "Factive (Assurance)",
+                "text": "Most historians have attributed this decision to the failure of the earlier Indian Inquisition."
+            },
+            "Physics": {
+                "stance": "Neutral",
+                "text": "In more applied basis, using an uncooled kryptonxenon gas-discharge plasma, Kryukov and Chaplygin [14] attributed the emission observed in the region of 156 nm to the radiative decay of heteronuclear excimers correlated to the first resonant state of xenon, basing themselves on the small width of the molecular band."
+            },
+            "Political Science": {
+                "stance": "Non-factive (Findings)",
+                "text": "This syndrome of rejection of outsiders, combined with rigid conformity to in-group norms and established traditions, bears some resemblance to the cluster of traits described in the Authoritarian Personality literature, but while the Authoritarianism thesis attributed these traits to rigid child-rearing practices, our interpretation attributes them to existential insecurity."
+            }
+        }
+    },
+    {
+        "word": "believe",
+        "definition": "To accept something as true or real based on faith, trust, or personal conviction, often without empirical evidence.",
+        "common_forms": ["believe", "believed", "believes", "believing"],
+        "frequency": "294.48",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Tentative",
+                "text": "She believes that fair tests depend on well-developed models of language use, which currently means principally American and British Standard English; however, she suggests that there may be a case for tests of English as an International Language (EIL), since this is becoming globally recognised and its descriptive codification is proceeding fast."
+            },
+            "History": {
+                "stance": "Tentative",
+                "text": "The Stoics believed that the whole world constituted the only true city, whose citizens were of necessity good people."
+            },
+            "Philosophy": {
+                "stance": "Critical",
+                "text": "Most externalists do not, however, believe that the plausibility of externalism depends on its being compatible with authoritative discriminative self-knowledge of content."
+            },
+            "Physics": {
+                "stance": "Tentative",
+                "text": "Their photoconductivity is believed to be of n type whereas their dark conductivity is of p type."
+            },
+            "Political Science": {
+                "stance": "Neutral",
+                "text": "Bush, though he expressed his desire to see greater Chinese adherence to international standards of human rights, free and fair trade practices, and international non-proliferation norms, nonetheless believed that “adding broad conditions to China’s MFN renewal would not lead to faster progress in advancing our goals” (quoted in Congressional Quarterly, 1992)."
+            }
+        }
+    },
+    {
+        "word": "calculate",
+        "definition": "To determine or estimate a numerical value or result through mathematical operations or reasoning.",
+        "common_forms": ["calculate", "calculated", "calculates", "calculating"],
+        "frequency": "86.05",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Procedures (Findings)",
+                "text": "For example, Sorhus (1977) calculated that speakers in her 131,536-word corpus of spontaneous Canadian speech used an item of formulaic language once every five words."
+            },
+            "History": {
+                "stance": "Procedures (Findings)",
+                "text": "From roughly 1800 onward, however, scientists calculated the time with respect to a star, a process that required knowledge to which the public had little access."
+            },
+            "Physics": {
+                "stance": "Procedures (Findings)",
+                "text": "Sokolik and Toon [1996], using a box model, calculated the global-mean direct solar radiative forcing of mineral aerosol due to anthropogenic activity such as inappropriate irrigation practices, excessive cultivation of poor soils, heavy grazing, urbanization and human induced wind erosion."
+            }
+        }
+    },
+    {
+        "word": "call",
+        "definition": "To refer to or name something in a particular way, often in the context of assigning a label or term to an idea or concept; to make a request or demand for something to be done or considered.",
+        "common_forms": ["call", "called", "calling", "calls"],
+        "frequency": "389.84",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Factive (Assurance)",
+                "text": "Swain calls this discussion ‘negotiating about form’, which is manifested by language related episodes (LREs), defined as ‘any part of a dialogue in which students talk about the language they are producing, question their language use, or other- or self-correct’ (1998: 70)."
+            },
+            "History": {
+                "stance": "Non-factive (Assurance)",
+                "text": "There are also forms of what Biolsi (2005) calls “modular” sovereignty, in which entities smaller than the nation-state appropriate Western discourses on individualism and rights to assert autonomy from a larger power (Comaroff 1995: 214–225)."
+            },
+            "Philosophy": {
+                "stance": "Non-factive (Assurance)",
+                "text": "One of the aims of Truth and Truthfulness is to convince us that there is an important and valuable relationship between truth, specifically what Williams calls ‘the realist idea of truth’, and liberal politics."
+            },
+            "Political Science": {
+                "stance": "Non-factive (Assurance)",
+                "text": "How to measure satisfaction and in particular how to undertake rigorous quantitative analysis has led to the estimation of what Blanchflower and Oswald (2004) call ‘happiness equations’."
+            }
+        }
+    },
+    {
+        "word": "carry out",
+        "definition": "To complete or fulfill a task or action, often according to a plan or instructions.",
+        "common_forms": ["carry out", "carried out", "carries out", "carrying out"],
+        "frequency": "62.15",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Procedures (Findings)",
+                "text": "What are the consequences for test-takers if the norm imposed by the test is not the “normal” variety accepted in their own society? Concerned about these issues, Lowenberg (1993) carried out an analysis of the TOEIC test."
+            },
+            "Physics": {
+                "stance": "Procedures (Findings)",
+                "text": "In an effort to obtain a microscopic understanding of the origin of VUV emissions from inert heavy-atom gas mixtures, Jansik et al [6] carried out calculations on the interatomic interaction in the ground and low-lying spin–orbit excited states of the krypton–xenon dimer."
+            }
+        }
+    },
+    {
+        "word": "challenge",
+        "definition": "To question or dispute the validity or correctness of something, often in order to provoke critical examination or debate.",
+        "common_forms": ["challenge", "challenged", "challenges", "challenging"],
+        "frequency": "91.78",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Counters (Author Focused)",
+                "text": "Lowenberg (1993) challenges “the assumption held by many who design English proficiency tests. . . that native speakers still should determine the norms for Standard English around the world” (p. 104)."
+            },
+            "History": {
+                "stance": "Critical",
+                "text": "A close examination of the evidence, however, challenges the prevailing opinion and suggests that concepts of citizenship, from the personal, legal, and metaphorical perspectives, continued to play a vital role in defining personal and legal identity after 212 c.e."
+            },
+            "Philosophy": {
+                "stance": "Counters (Author Focused)",
+                "text": "Moreover, the claims of mass and popular Western art have also been challenged."
+            }
+        }
+    },
+    {
+        "word": "characterize",
+        "definition": "To describe or portray the distinctive qualities or features of something, often in terms of its typical attributes or behavior.",
+        "common_forms": ["characterize", "characterized", "characterizes", "characterizing", "characterise", "characterised", "characterises", "characterising"],
+        "frequency": "97.16",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Non-factive (Assurance)",
+                "text": "Juris Hartmanis, in his 1995 ACM Turing Award lecture, characterized CS as being “interwined and permeated with engineering concerns and considerations,” by which “search[ing] for optimality” in terms of the “applicability” of scientific principles is a major concern (Hartmanis, 1995, pp. 13–14)."
+            },
+            "History": {
+                "stance": "Factive (Findings)",
+                "text": "The city of New Orleans was at the center of what Shannon Dawdy has characterized as three overlapping areas of circulation of people and goods-one stretching up the Mississippi River, one reaching across the Atlantic Ocean to France and Europe, one spreading across the Gulf of Mexico to Havana, Veracruz, Port-au-Prince, and various smaller ports of the Caribbean."
+            },
+            "Physics": {
+                "stance": "Non-factive (Assurance)",
+                "text": "The polypyrrole nanospheres were characterized by SEM and TEM, UV-visible, and fluorescence spectroscopy, particle size analyzer, and wide-angle X-ray diffractions, etc."
+            },
+            "Political Science": {
+                "stance": "Factive (Findings)",
+                "text": "Increasingly intense interaction characterizes the three sets of bilateral relationships in several areas, notably migration and border management, which are directly concerned with citizenship- but the extent to which the trilateral relationship is intensifying, meanwhile, remains unclear."
+            }
+        }
+    },
+    {
+        "word": "cite",
+        "definition": "To quote or refer to a source of information, often as evidence or support for an argument or claim.",
+        "common_forms": ["cite", "cited", "cites", "citing"],
+        "frequency": "103.98",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Non-factive (Findings)",
+                "text": "Gardner (1985), for instance, cited research indicating that the more positive students’ attitudes toward the object of study, the higher their achievement."
+            },
+            "Applied Linguistics_2": {
+                "stance": "Non-factive (Assurance)",
+                "text": "Jenkins cites our paper (Davies et al., 2003) as supporting her position; but in fact in our conclusion to that paper we made it clear that from our point of view the jury is still out."
+            },
+            "History": {
+                "stance": "Procedures (Findings)",
+                "text": "Foucault speaks of how governmentality turned subject peoples into deindividualized “populations,” while Agamben cites the examples of the concentration camp and banishment as the quintessential manifestations of sovereign power on subject individuals."
+            },
+            "Political Science": {
+                "stance": "Procedures (Findings)",
+                "text": "Sharing these perceptions is the American Bar Association (ABA), which cites the rise of heated campaigns and fundraising activities as evidence of the “excessive politicization of state courts” (2003, 89)."
+            },
+            "Political Science_2": {
+                "stance": "Non-factive (Assurance)",
+                "text": "The most often cited indirect impact of education on fertility is that educated women tend to join the labour market in a larger number than uneducated women."
+            }
+        }
+    },
+    {
+        "word": "claim",
+        "definition": "To assert or declare something as true or factual, often based on evidence or personal belief, in order to persuade others or stake a position.",
+        "common_forms": ["claim", "claimed", "claiming", "claims"],
+        "frequency": "137.0",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Factive (Findings)",
+                "text": "Polio et al. (1998) claim that differences in post-test scores for the treatment and control groups were not significant, but it needs to be realised that different instruments were used in the two tests and that this, therefore, raises the possibility that instrument variability might have had an effect on the findings."
+            },
+            "Applied Linguistics_2": {
+                "stance": "Critical (Doubt)",
+                "text": "In fact, some have claimed that Roy Miller’s criticisms of the Japanese myth of uniqueness are likewise erroneously tied to the notion that this mythology is unique to Japan, when, in fact, belief in uniqueness is anything but unique."
+            },
+            "History": {
+                "stance": "Factive (Assurance)",
+                "text": "Moreover, several authors have claimed that the NAACP conducted large-scale “purges” of leftists from its ranks that weakened the organization and left it “rudderless and disoriented,” to quote Home."
+            },
+            "Philosophy": {
+                "stance": "Factive (Assurance)",
+                "text": "Latter-day Humeans, if not Hume himself, claim that there are no demands on what we desire but that it be means-end coherent."
+            },
+            "Physics": {
+                "stance": "Factive (Assurance)",
+                "text": "They also claimed that the genus g vacuum to vacuum amplitude should take the form XXX, where and denote two spin structures (or theta characteristics), c, are suitable constant phases depending on the details of the model and [d] is a holomorphic form of maximal rank (3g – 3, 0) on the moduli space Mg of genus g Riemann surfaces."
+            },
+            "Political Science": {
+                "stance": "Factive (Assurance)",
+                "text": "Moreover, the report claims the fall in fertility is not strictly a response to the decline in the standard of living."
+            }
+        }
+    },
+    {
+        "word": "compare",
+        "definition": "To examine the similarities and differences between two or more things in order to understand their relationships or evaluate their qualities.",
+        "common_forms": ["compare", "compared", "compares", "comparing"],
+        "frequency": "319.96",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Procedures (Findings)",
+                "text": "A study which has examined the use of personal pronouns in native English speaker postgraduate texts is that by Harwood (2003) who compared research articles (RAs) and master’s dissertations in Business and Management, and Computing Science."
+            },
+            "Biology": {
+                "stance": "Procedures (Findings)",
+                "text": "Though previous studies have compared plant species richness patterns in these two continental regions (e.g., Latham and Ricklefs 1993, Ricklefs et al. 2004), these studies focus on a relatively small group of species or a single scale or a small range of scales, and none of them have attempted to differentiate the relative roles of climate and region on species richness patterns."
+            },
+            "Physics": {
+                "stance": "Non-factive (Assurance)",
+                "text": "Our approach is consistent with the fact that, in all its unitarily transformed forms, the Dirac equation has the overriding characteristic that it is an equation for a pair of excitations. (See, for example, Zee [2, pp. 95, 479–482, 488–489], who compares the Dirac equation in the Dirac, Majorana, and Weyl bases and Penrose [3, p. 611], who emphasizes the role of particles as field excitations.)"
+            },
+            "Political Science": {
+                "stance": "Procedures (Findings)",
+                "text": "Several previous analyses of voluntary association activity have compared language groups, specifically francophones and anglophones."
+            }
+        }
+    },
+    {
+        "word": "compute",
+        "definition": "To calculate or determine a numerical value or result, often using mathematical operations or algorithms.",
+        "common_forms": ["compute", "computed", "computes", "computing"],
+        "frequency": "15.92",
+        "examples": {
+            "Physics": {
+                "stance": "Procedures (Findings)",
+                "text": "DCS for elastic electron scattering have been computed by Mozejko and Sanche [21] using the independent atom method (IAM) for collision energies in the range 502000 eV."
+            }
+        }
+    },
+    {
+        "word": "concede",
+        "definition": "To acknowledge or admit something as true or valid, often reluctantly or with reluctance.",
+        "common_forms": ["concede", "conceded", "concedes", "conceding"],
+        "frequency": "3.83",
+        "examples": {
+            "History": {
+                "stance": "Non-factive (Assurance)",
+                "text": "Elton, attempting to show that the reign was reasonably devoid of rapacious behaviour on the part of the king and his councillors, conceded to Cooper that Sunnyff’s case was ‘the only one known in which a man seems to have suffered quite innocently’."
+            }
+        }
+    },
+    {
+        "word": "concentrate",
+        "definition": "To focus one’s attention or efforts intensely on a particular task or objective.",
+        "common_forms": ["concentrate", "concentrated", "concentrates", "concentrating"],
+        "frequency": "40.48",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Neutral",
+                "text": "Ward (2004), concentrated specifically on the use of we in constructing identities in discourse between trades union representatives and their members."
+            },
+            "Political Science": {
+                "stance": "Procedures (Findings)",
+                "text": "Other criticisms by economists tend to concentrate on whether an individual’s happiness or life satisfaction is based on the feelings that person has on that day and whether economists should be concerned at all with subjectivity."
+            }
+        }
+    },
+    {
+        "word": "concern",
+        "definition": "To relate to or involve something, often with regard to its significance or impact; to worry about something.",
+        "common_forms": ["concern", "concerned", "concerning", "concerns"],
+        "frequency": "7.39",
+        "examples": {
+            "Political Science": {
+                "stance": "Neutral",
+                "text": "For years, scholars explored this relationship unidirectionally; that is, they were concerned with how various inputs such as contextual circumstances and interest group pressures shape the formation of public policy."
+            }
+        }
+    },
+{
+    "word": "conclude",
+    "definition": "To arrive at a decision or judgment based on reasoning or evidence, often marking the end of a process or discussion.",
+    "common_forms": ["conclude", "concluded", "concludes", "concluding"],
+    "frequency": "121.77",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Factive (Findings)",
+            "text": "In response to this pervasive use of the L1, Levine (2003) concluded that denying a role to the L1 is futile and that learners should play an active role in managing the use of the L1 and the L2 to create bilingual norms that are typical of multilingual environments outside the classroom."
+        },
+        "Philosophy": {
+            "stance": "Factive (Findings)",
+            "text": "Given this account, Ridge concludes that the idea of a MSOL 'is preserved, since at some stage this increase in welfare becomes negligible.'"
+        },
+        "Physics": {
+            "stance": "Tentative (Doubt)",
+            "text": "Yang et al. [2007], based on their modeling study, concluded that the effect of dust particle nonsphericity is negligible in thermal infrared wavelengths while it plays a significant role in short wavelengths."
+        },
+        "Political Science": {
+            "stance": "Non-factive (Assurance)",
+            "text": "Many have concluded the electoral changes that have taken shape in the South have affected national politics, and therefore, even more reasons exist now to try to understand this unique region."
+        }
+    }
+},
+{
+    "word": "conduct",
+    "definition": "To carry out or organize a particular activity or process, often according to established procedures or protocols.",
+    "common_forms": ["conduct", "conducted", "conducting", "conducts"],
+    "frequency": "242.49",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Procedures (Findings)",
+            "text": "Building on this emerging body of research, Ferris and Tagg conducted several studies that explored the oral language needs of English for academic purposes (EAP) learners (Ferris & Tagg, 1996a, 1996b; Ferris, 1998)."
+        },
+        "Biology": {
+            "stance": "Procedures (Findings)",
+            "text": "Most of these latter studies were conducted through only one season of the year and none tested for seasonal variation in diet."
+        },
+        "History": {
+            "stance": "Procedures (Findings)",
+            "text": "The thousands of interviews conducted with American ex-slaves in seventeen US states between 1936 and 1938 by researchers affiliated with the Federal Writers' Project are also a rich mine of testimony to antebellum slave life and labor."
+        },
+        "Philosophy": {
+            "stance": "Procedures (Findings)",
+            "text": "Oddly, the adequacy versus equality debate has been conducted in abstraction from the debate about the value of 'diversity' in education that lies at the core of current arguments in favor of affirmative action."
+        },
+        "Physics": {
+            "stance": "Procedures (Findings)",
+            "text": "Although several studies on the work function of carbon nanotubes have been conducted, these results do not coincide with one another."
+        },
+        "Political Science": {
+            "stance": "Procedures (Findings)",
+            "text": "Micevzka and Zak (2002) conducted a cross-country analysis for transition economies from 1979 to 1999."
+        }
+    }
+},
+{
+    "word": "confirm",
+    "definition": "To verify or establish the accuracy or truth of something, often through evidence or testimony.",
+    "common_forms": ["confirm", "confirmed", "confirming", "confirms"],
+    "frequency": "85.4",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Factive (Assurance)",
+            "text": "Studies in industrial sociology such as Taylor and Bain (2005) and Poster (2007) confirm that disguising national identity is frequently an explicit management practice in Indian call centres."
+        },
+        "History": {
+            "stance": "Factive (Findings)",
+            "text": "Recent historians of the Sienese church during the fascist period have amply confirmed the appropriateness of Binchy's judgment."
+        },
+        "Political Science": {
+            "stance": "Factive (Findings)",
+            "text": "As research confirms, consultants typically defer to candidates when ethical dilemmas arise about campaign strategy (Garrett 2004)."
+        }
+    }
+},
+{
+    "word": "conjecture",
+    "definition": "To speculate or make guesses about something without sufficient evidence or proof.",
+    "common_forms": ["conjecture", "conjectured", "conjectures", "conjecturing"],
+    "frequency": "0.63",
+    "examples": {
+        "Physics": {
+            "stance": "Tentative",
+            "text": "The conformal invariance of the string theory forces the amplitude to be invariant under the action of the modular group as was exploited by Belavin and Knizhnik who conjectured: 'any multiloop amplitude in any conformal invariant string theory may be deduced from purely algebraic objects on moduli spaces Mp of Riemann surfaces'."
+        }
+    }
+},
+{
+    "word": "consider",
+    "definition": "To think about or take into account something, often in a careful or deliberate manner, before making a decision or forming an opinion.",
+    "common_forms": ["consider", "considered", "considering", "considers"],
+    "frequency": "455.82",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Neutral",
+            "text": "Jenkins (2006) considers it to be well accepted that English now has a growing number of standard varieties and not just two 'globally useful or appropriate versions'."
+        },
+        "History": {
+            "stance": "Neutral",
+            "text": "This term characterizes actions of young people which, while against the law in one way or another, or at least on the legal fringes, were considered by experts to be less severe and to have more explicit social causes than classic 'criminal' behaviour."
+        },
+        "Philosophy": {
+            "stance": "Tentative",
+            "text": "With this in mind, Parfit considers how he should view the prospect of fission, knowing that he would not survive this process: Consider my relation to each of [my fission products]."
+        },
+        "Physics": {
+            "stance": "Tentative (Doubt)",
+            "text": "Later, Dubovik et al. [2002, 2006] considered dust as mixture of randomly oriented spheroids to retrieve aerosol optical properties from AERONET ground-based radiometers while Kalashnikova and Sokolik [2002, 2004] considered various complicated shapes based on Scanning Electron Microscope (SEM) images for modeling the desert dust optics."
+        },
+        "Political Science": {
+            "stance": "Neutral",
+            "text": "Both scholars and policy makers recognize the significant role that Latinos played in the transformation of the workforce and the education and have considered the consequences of this change (Fullerton, 1997; Fullerton & Toossi, 2001; Passel & Suro, 2003; Vernez, 1998, 1999; Vernez, Krop, & Rydell, 1999)."
+        }
+    }
+},
+{
+    "word": "constitute",
+    "definition": "To form or make up something, often as a component or element of a larger whole.",
+    "common_forms": ["constitute", "constitutes", "constituting"],
+    "frequency": "39.03",
+    "examples": {
+        "History": {
+            "stance": "Factive (Findings)",
+            "text": "The multiple ideological underpinnings of forest conservation in colonial Algeria from the 1860s to World War I constitute an important dimension of the European encounter with colonized landscapes."
+        }
+    }
+},
+{
+    "word": "construct",
+    "definition": "To build or create something, often by assembling or arranging various parts or components.",
+    "common_forms": ["construct", "constructed", "constructing", "constructs"],
+    "frequency": "105.09",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Procedures (Findings)",
+            "text": "They constructed a typology of possible identities indicated through pronoun choices which they organised in terms of a cline of authorial presence."
+        },
+        "Physics": {
+            "stance": "Procedures (Findings)",
+            "text": "In [17] an explicit solution for the position of the 8-branes was constructed (in the probe approximation) which realizes this."
+        }
+    }
+},
+{
+    "word": "contend",
+    "definition": "To assert or argue a point, often in opposition to others, in order to support a particular position or viewpoint.",
+    "common_forms": ["contend", "contended", "contending", "contends"],
+    "frequency": "29.45",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Counters (Author Focused)",
+            "text": "For example, Hagiwara (1990), in a ten-year longitudinal study of non-native speakers studying at Keio University, contends that: Japanese treat non-natives cordially as guests, always keeping the foreigner at arm's length."
+        },
+        "Political Science": {
+            "stance": "Non-factive (Assurance)",
+            "text": "Moreover, some contend that the controversial nature of negative campaigning often generates public interest in elections and can result in increased voter turnout (Djupe and Peterson 2002; Finkel and Geer 1998; Freedman and Goldstein 1999; Freedman, Franz, and Goldstein 2004; Kahn and Kenney 1999; Wattenberg and Brians 1999)."
+        }
+    }
+},
+{
+    "word": "continue",
+    "definition": "To persist or endure over a period of time, often without interruption.",
+    "common_forms": ["continue", "continued", "continues", "continuing"],
+    "frequency": "147.46",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Non-factive (Assurance)",
+            "text": "Anticipating an objection which has no doubt already occurred to many readers (What is the negative of a communicative virtue – a communicative vice?), they continue: Although we call them communicative virtues, concepts of communicative virtues are employed to produce a vast range of social realities, some of which have their darker sides."
+        }
+    }
+},
+{
+    "word": "contribute",
+    "definition": "To provide or give something, often as a contribution to a larger effort or cause.",
+    "common_forms": ["contribute", "contributed", "contributes", "contributing"],
+    "frequency": "75.49",
+    "examples": {
+        "Political Science": {
+            "stance": "Non-factive (Assurance)",
+            "text": "Building on a long research tradition to which political scientists, psychologists and historians have contributed, Inglehart and Inglehart and Welzel argue that 'existential security'-the feeling that survival can be taken for granted-is conducive to interpersonal trust, tolerance of foreigners and other out-groups, openness to social change, and a pro-democratic political culture."
+        }
+    }
+},
+{
+    "word": "convince",
+    "definition": "To persuade or win over someone to a particular belief or course of action, often through argument or evidence.",
+    "common_forms": ["convince", "convinced", "convinces", "convincing"],
+    "frequency": "12.63",
+    "examples": {
+        "History": {
+            "stance": "Tentative",
+            "text": "In Manila, the President of the Philippines, Manuel Quezon, was convinced that his pre-war masseur and his gardener had been Japanese army intelligence officers 'under cover'."
+        }
+    }
+},
+{
+    "word": "create",
+    "definition": "To bring into existence or produce something new, often through imagination or ingenuity.",
+    "common_forms": ["create", "created", "creates", "creating"],
+    "frequency": "182.69",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Procedures (Findings)",
+            "text": "As part of a curriculum revision project at Chiang Mai University (CMU), Thai EFL teachers created a task-based course based on their review of the task-based language teaching literature and the results of a needs analysis."
+        }
+    }
+},
+{
+    "word": "credit",
+    "definition": "To acknowledge or attribute something to a particular source or origin, often as recognition of its importance or influence.",
+    "common_forms": ["credit", "credited", "crediting", "credits"],
+    "frequency": "2.93",
+    "examples": {
+        "Political Science": {
+            "stance": "Tentative (Doubt)",
+            "text": "Although generally credited with helping to animate and focus the civil rights movement, scholars have also noted the Court's dependence upon other actors and institutions in order to effect broad social change."
+        }
+    }
+},
+{
+    "word": "criticize",
+    "definition": "To express disapproval or judgment about something, often by pointing out its faults or shortcomings.",
+    "common_forms": ["criticise", "criticised", "criticises", "criticising", "criticize", "criticized", "criticizes", "criticizing"],
+    "frequency": "36.59",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Counters (Author Focused)",
+            "text": "In particular, recently, Curry and Lillis (2004), while drawing upon the three concepts of discourse community, speech community, and community of practice, criticized the 'homogeneity and idealization'."
+        },
+        "History": {
+            "stance": "Counters (Author Focused)",
+            "text": "Some historians have, however, criticized postcolonial theorists for producing a too static and abstract generic colonialism that obscures the complexity and particularism involved in EuroAmerican colonial projects."
+        },
+        "Political Science": {
+            "stance": "Counters (Author Focused)",
+            "text": "Finally, while many human rights advocates have become sold on truth commissions, these transitional justice mechanisms have been increasingly criticized as either ineffectual substitutes for prosecution or as potentially destabilizing forces in the midst of delicate transitions."
+        }
+    }
+},
+{
+    "word": "critique",
+    "definition": "To evaluate or analyze something critically, often by identifying strengths and weaknesses.",
+    "common_forms": ["critique", "critiqued", "critiques", "critiquing"],
+    "frequency": "4.3",
+    "examples": {
+        "History": {
+            "stance": "Counters (Author Focused)",
+            "text": "Weaver harshly critiqued the proposal, arguing that it would create greater problems for the poor, who could not pay their mortgages, but the administration worked to craft its own, alternative, housing legislation."
+        },
+        "Political Science": {
+            "stance": "Non-factive (Assurance)",
+            "text": "If Wilson's ideals are not expressed in his policy of interventionism, it might long ago have been critiqued as essentially a problem of a realist wolf in idealist sheep clothing."
+        }
+    }
+},
+{
+    "word": "debate",
+    "definition": "To engage in discussion or argument about a particular topic or issue, often with differing viewpoints or perspectives.",
+    "common_forms": ["debate", "debated", "debates", "debating"],
+    "frequency": "16.16",
+    "examples": {
+        "Political Science": {
+            "stance": "Critical",
+            "text": "Since the inception of council manager government, political science scholars have debated the normative aspects of municipal government (see e.g., Adrian 1988; Box 1995; Fannin 1983)."
+        }
+    }
+},
+{
+    "word": "define",
+    "definition": "To explain the meaning or significance of a concept, term, or idea, often by providing a clear and precise definition.",
+    "common_forms": ["define", "defined", "defines", "defining"],
+    "frequency": "257.78",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Non-factive (Assurance)",
+            "text": "Other researchers define attitudes in terms of functions that may be seen as complementary to Zimbardo and Leippe's (1991) classification."
+        },
+        "Political Science": {
+            "stance": "Non-factive (Assurance)",
+            "text": "They defined 'an individual's human security as his or her expectation of years of life without experiencing the state of generalised poverty."
+        }
+    }
+},
+{
+    "word": "demonstrate",
+    "definition": "To show or prove something clearly and convincingly through evidence or reasoning, often to support a claim or argument.",
+    "common_forms": ["demonstrate", "demonstrated", "demonstrates", "demonstrating"],
+    "frequency": "233.1",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Factive (Findings)",
+            "text": "Recently, corpus technology has demonstrated great potential for second language (L2) writing instruction by integrating vocabulary, grammar, and discourse patterns of given types of writing into the teaching of L2 writing (Gledhill, 2000; Hyland, 2002; Jabbour, 1997, 2001; Tribble, 1999, 2002)."
+        },
+        "Biology": {
+            "stance": "Factive (Findings)",
+            "text": "Recent studies have successfully employed this approach to characterize the microbial communities of biological soil crusts in arid environments [29, 48, 52, 62] and have demonstrated that this method is capable of revealing more extensive species diversity in these crusts than traditional techniques [28]."
+        },
+        "History": {
+            "stance": "Factive (Findings)",
+            "text": "In addition, as various scholars have demonstrated, Italian fascism presented itself in overtly religious terms and may appropriately be interpreted as a 'sacralization of politics' and a 'political religion'."
+        },
+        "Physics": {
+            "stance": "Factive (Findings)",
+            "text": "Many experiments demonstrated that the adsorption of biomolecules on the surface of a microcantilever can cause the cantilever to deflect."
+        },
+        "Political Science": {
+            "stance": "Counter-factive (Findings)",
+            "text": "As others have noted, this approach does not demonstrate that the knowledge gap between the least and the most educated is actually caused by media coverage (Gaziano 1983; Kleinnijenhuis 1991)."
+        }
+    }
+},
+{
+    "word": "describe",
+    "definition": "To give a detailed account or representation of something, often using words to paint a clear picture or convey specific characteristics.",
+    "common_forms": ["describe", "described", "describes", "describing"],
+    "frequency": "414.48",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Non-factive (Assurance)",
+            "text": "For example, Frank Zappa's song 'Valley Girl' featuring his daughter, Moon Unit Zappa, came to define and promote the 'valley girl speech' patterns described by various linguists, including Preston (2003) and Bronstein (2000)."
+        },
+        "History": {
+            "stance": "Non-factive (Assurance)",
+            "text": "In a space such as Jaffa where neither the Ottoman state nor the European powers had political, economic, and cultural hegemony, the 'revival and regeneration of religion and state, land and community' sustained-albeit briefly-what can be described as a 'cosmopolitan Levantine modernity'-that is, a specifically Levantine 'third space' in which incommensurable subcultures were, for a time, spatially reconciled."
+        },
+        "Philosophy": {
+            "stance": "Non-factive (Assurance)",
+            "text": "So called autoimmune reactions were described at the turn of the last century, and later determined as cause of autoimmune disease, but because the entire orientation of the science was to see immunity as a mediator of host defense, these findings were viewed as a pathological aberrancy."
+        },
+        "Physics": {
+            "stance": "Non-factive (Assurance)",
+            "text": "The near-horizon limit of the D-branes, 5 which is dual to their (UV-completed) 4 + 1-dimensional supersymmetric gauge theory, was described in [19]."
+        },
+        "Political Science": {
+            "stance": "Non-factive (Assurance)",
+            "text": "Recent work describes the seeming impropriety of judges accepting campaign contributions from law firms regularly appearing in court, as well as possible influences of these contributions on the decisions of judges (e.g., Cann 2007; Geyh 2003; Waltenburg and Lopeman 2000)."
+        }
+    }
+},
+{
+    "word": "determine",
+    "definition": "To recognize or distinguish something as being particular or distinct from others, often by name or characteristic.",
+    "common_forms": ["determine", "determined", "determines", "determining"],
+    "frequency": "333.87",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Factive (Findings)",
+            "text": "In a subsequent study, Reynolds and Walberg (1992b) determined that the same factors affected high school students' attitudes toward mathematics."
+        },
+        "Physics": {
+            "stance": "Procedures (Findings)",
+            "text": "For this, isotherms of guest vapor sorption were determined using headspace gas chromatographic analysis for solid 1, previously equilibrated at high temperature (220 C) to remove possible memory effects."
+        }
+    }
+},
+{
+    "word": "develop",
+    "definition": "To grow or evolve over time, often through a process of maturation or refinement.",
+    "common_forms": ["develop", "developed", "developing", "develops"],
+    "frequency": "501.91",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Procedures (Findings)",
+            "text": "Potter (2004) develops a theory of media literacy with an emphasis on cognitive approaches."
+        },
+        "Physics": {
+            "stance": "Procedures (Findings)",
+            "text": "New methods for studying strongly coupled gauge theories have been developed in the last decade, following the AdS/CFT correspondence [1]."
+        },
+        "Political Science": {
+            "stance": "Factive (Findings)",
+            "text": "First, Pantoja, Ramírez, and Segura (2001) develop a model of Latino electoral participation that captures fluctuations in voter turnout among native and naturalized Latinos across naturalization cohorts."
+        }
+    }
+},
+{
+    "word": "discover",
+    "definition": "To find or uncover something that was previously unknown or hidden, often through investigation or exploration.",
+    "common_forms": ["discover", "discovered", "discovering", "discovers"],
+    "frequency": "94.39",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Factive (Findings)",
+            "text": "They discovered that although collocations made up around 23% of all lexical words (i.e., words belonging to open-class categories, thus excluding prepositions, articles, etc.), they accounted for more than 48% of all errors."
+        },
+        "Physics": {
+            "stance": "Factive (Findings)",
+            "text": "Another structural motif has been discovered in Na RbC [3][5] where the CC bonding relies on a single CC covalent bond [6]."
+        }
+    }
+},
+{
+    "word": "discuss",
+    "definition": "To talk about or explore a topic or issue, often in a formal or organized manner, with others.",
+    "common_forms": ["discuss", "discussed", "discusses", "discussing"],
+    "frequency": "239.63",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Non-factive (Assurance)",
+            "text": "The theoretical perspective on literacy which informs this research is a literacy practices perspective discussed first by Scribner and Cole (1981) and developed in the work of the New Literacy Studies movement (Gee 1990; Street 1998; Barton 2001, cf. review by Reder and Davila 2005)."
+        },
+        "History": {
+            "stance": "Non-factive (Assurance)",
+            "text": "Furthermore, few scholars have discussed soldiers of any race as workers or army service as work, although enlisted men represented a group who had not only voluntarily contracted their work output to the federal government, but whose daily lives were more similar to that of common laborers than to any ideal of professional soldier."
+        },
+        "Physics": {
+            "stance": "Non-factive (Assurance)",
+            "text": "In the past Susskind [1], Horowitz and Polchinski (SHP) [2] and others [3–5] have discussed this, in the framework of string theory, as a black holestring transition or more appropriately a crossover."
+        },
+        "Political Science": {
+            "stance": "Factive (Assurance)",
+            "text": "However, in this paper, we did not focus on the ICT adoption process; we have assumed that the adoption follows any of the models discussed in Geroski (2000) and we focused on the impact of such technologies once adopted."
+        }
+    }
+},
+{
+    "word": "document",
+    "definition": "To record or capture information in written or visual form, often for the purpose of preserving or presenting evidence.",
+    "common_forms": ["document", "documented", "documenting", "documents"],
+    "frequency": "62.06",
+    "examples": {
+        "History": {
+            "stance": "Non-factive (Assurance)",
+            "text": "The revolutionary events of this period – the overthrow of the tsarist autocracy and the creation of the Provisional Government in February 1917, the radicalization of the various sections of society during that year, the capture of power by Bolsheviks in October, and the subsequent military interventions and civil war from 1918–1920 – have been impressively documented by historians working both from the inside as Russian experts and from the outside as scholars of Russian–American relations."
+        },
+        "Physics": {
+            "stance": "Non-factive (Findings)",
+            "text": "Experimental study and numerical predictions on the effect of different discharge parameters such as applied voltage wave form, distance between electrodes, dielectric thickness, and permittivity are documented by various researchers."
+        },
+        "Political Science": {
+            "stance": "Procedures (Findings)",
+            "text": "A number of excellent studies have identified punctuations in a topic area and documented how actors outside the subsystem can reframe an issue, mobilize support among the previously apathetic, and draw sufficient attention to the problem to shift the problem onto the macropolitical agenda of Congress."
+        },
+        "Political Science_2": {
+            "stance": "Non-factive (Assurance)",
+            "text": "First, it is well documented that voter mobilization efforts disproportionately target likely voters (Gershtenson, 2003)."
+        }
+    }
+},
+{
+    "word": "draw",
+    "definition": "To derive or extract something, often as a conclusion or inference from evidence or observations.",
+    "common_forms": ["draw", "drawing", "drawn", "draws", "drew"],
+    "frequency": "176.03",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Positive",
+            "text": "Myers (1989b), for example, draws on politeness theory (Brown & Levinson, 1987) to explain pronoun and other choices in scientific writing particularly with regard to the hedging of claims."
+        },
+        "History": {
+            "stance": "Neutral",
+            "text": "It fits well with the image of Henry II as a strong, competent king, possessed of the energy and intellectual depth necessary for clear and effective management of his kingdom,5 but, as with so much, this image is drawn by the writers of the later part of his reign,6 observing the mature and developed character of the king, and the administrative control that he could achieve through his favoured ministers and officials at this time."
+        }
+    }
+},
+{
+    "word": "elaborate",
+    "definition": "To expand or develop something in detail, often by adding more information or explanation.",
+    "common_forms": ["elaborate", "elaborated", "elaborates", "elaborating"],
+    "frequency": "6.39",
+    "examples": {
+        "Political Science": {
+            "stance": "Factive (Findings)",
+            "text": "It elaborated the need for a variety of actions to respond to these problems, including measures of disarmament to free up resources to make the new actions possible"
+        }
+    }
+},
+{
+    "word": "embed",
+    "definition": "To incorporate or integrate something into a surrounding matrix or environment, often to make it an integral part of a larger whole.",
+    "common_forms": ["embed", "embedded", "embedding", "embeds"],
+    "frequency": "1.96",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Procedures (Findings)",
+            "text": "In an important departure, Rubin (1995) embeds an awareness of video to define the skill as 'an active process in which listeners select and interpret information which comes from auditory and visual cues in order to define what is going on and what the speakers are trying to express'."
+        }
+    }
+},
+{
+    "word": "embrace",
+    "definition": "To accept or adopt something willingly or enthusiastically, often with open arms.",
+    "common_forms": ["embrace", "embraced", "embraces", "embracing"],
+    "frequency": "17.78",
+    "examples": {
+        "Political Science": {
+            "stance": "Positive",
+            "text": "In fact, the most prominent alternative approach, Sabatier's Advocacy Coalition Framework (ACF) largely embraces the punctuated equilibrium model when explaining agenda setting, but asserts that the policy process is better conceptualized as a series of interactions between groups than as a series of transitions between stages (Sabatier and JenkinsSmith 1993)."
+        }
+    }
+},
+{
+    "word": "emphasize",
+    "definition": "To give special importance or prominence to something, often by highlighting it or drawing attention to its significance.",
+    "common_forms": ["emphasise", "emphasised", "emphasises", "emphasising", "emphasize", "emphasized", "emphasizes", "emphasizing"],
+    "frequency": "131.85",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Factive (Assurance)",
+            "text": "Those studies have emphasized that the corpus approach not only can enhance learners' awareness of lexico-grammatical patterning of texts, but also can foster inductive learning."
+        },
+        "History": {
+            "stance": "Non-factive (Assurance)",
+            "text": "Whereas Kant postulated one philosophical manifold that made possible the apprehension of time, Herder emphasized the multiplicity and cultural embeddedness of temporal experience."
+        },
+        "Physics": {
+            "stance": "Non-factive (Findings)",
+            "text": "The sensitivity study by Myhre and Stordal [2001] also emphasized the importance of chemical composition and hence the refractive index of individual component to the forcing imposed by mineral dust."
+        },
+        "Political Science": {
+            "stance": "Factive (Assurance)",
+            "text": "The point Senillosa (1998) was emphasising was that many NGOs worldwide are companions in a continual learning and evolutionary process, whose two chief goals are, on the one hand, to give power and voice to those who are socially, economically and culturally oppressed and on the other, to create a new model of relationships between the peoples of the North and the South (Senillosa, 1998; compare Nyamugasira, 1998; Hately, 1997)."
+        }
+    }
+},
+{
+    "word": "employ",
+    "definition": "To use or utilize something for a specific purpose or function, often in a professional or formal context.",
+    "common_forms": ["employ", "employed", "employing", "employs"],
+    "frequency": "122.3",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Procedures (Findings)",
+            "text": "Doughty and Varela (1998: 124) in an experimental classroom study employed 'corrective recasting', where the teacher repeats a learner's erroneous utterance and then, if necessary, immediately corrects the error(s) by reformulating the utterance, as in their example below: S: I think that the worm will go under the soil."
+        },
+        "Physics": {
+            "stance": "Procedures (Findings)",
+            "text": "Numerical calculations and a few approximation models have been employed to calculate the screening effect on atomic structure and atomic processes."
+        },
+        "Political Science": {
+            "stance": "Procedures (Findings)",
+            "text": "In addition to using various variables in measuring poverty, studies employ various methods of calculating poverty."
+        }
+    }
+},
+{
+    "word": "encourage",
+    "definition": "To inspire or stimulate someone to do something, often by giving them support or confidence.",
+    "common_forms": ["encourage", "encouraged", "encourages", "encouraging"],
+    "frequency": "71.14",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Factive (Assurance)",
+            "text": "Swain (1998) encouraged noticing in the classroom through the use of Wajnryb's dictogloss (1991), which provides learners with the opportunity to discover gaps in their L2 knowledge and to address them verbally."
+        }
+    }
+},
+{
+    "word": "endorse",
+    "definition": "To express approval or support for something, often publicly or formally.",
+    "common_forms": ["endorse", "endorsed", "endorses", "endorsing"],
+    "frequency": "7.7",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Positive",
+            "text": "Belz (2002) endorsed Cook's position on classroom FL teaching, and added that 'L1 and/or multiple language use may provide insight into the ways in which multicompetent language users inhabit and relate to a pluralistic, multilingual world'."
+        }
+    }
+},
+{
+    "word": "enrich",
+    "definition": "To enhance or improve the quality or value of something, often by adding new or valuable elements.",
+    "common_forms": ["enrich", "enriched", "enriches", "enriching"],
+    "frequency": "6.54",
+    "examples": {
+        "Political Science": {
+            "stance": "Factive (Findings)",
+            "text": "Concepts such as treaty federalism (Ladner, 2003; Youngblood Henderson, 1994), multi-row federalism (Tully, 1994) and three-cornered federalism (Abele and Prince, 2003) have enriched our understanding of Canadian federalism, and the relationship between Aboriginal peoples and territories and the Canadian federal system."
+        }
+    }
+},
+{
+    "word": "envision",
+    "definition": "To imagine or visualize something in the mind, often as a goal or aspiration.",
+    "common_forms": ["envision", "envisioned", "envisioning", "envisions"],
+    "frequency": "6.54",
+    "examples": {
+        "Political Science": {
+            "stance": "Tentative",
+            "text": "In his treatment of possible constitutional reform, James Sundquist (1986) envisions similar effects."
+        }
+    }
+},
+{
+    "word": "establish",
+    "definition": "To set up or create something, often with the intention of making it firm, stable, or recognized.",
+    "common_forms": ["establish", "established", "establishes", "establishing"],
+    "frequency": "274.01",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Factive (Findings)",
+            "text": "Bernhardt and Kamil (1995), in their own studies and by reviewing Markham (1985), Barnett (1986), and Shohamy (1984), established that upwards of 20% of the variance in L2 reading skill was accounted for by L1 reading skill, and upwards of 30% of the variance was accounted for by L2 proficiency."
+        },
+        "Biology": {
+            "stance": "Factive (Findings)",
+            "text": "Theoretical studies of equilibrium community patterns have established that community composition in the diamond and intraguild predation modules may follow predictable sequences along an enrichment gradient (Holt et al. 1994, Leibold 1996, Holt and Polis 1997, Diehl and Feissel 2000, Mylius et al. 2001)."
+        },
+        "History": {
+            "stance": "Factive (Findings)",
+            "text": "In all, the discussion of indigenous soldiers as a colonized workforce helps not only in breaking unnecessary mental barriers that isolate indigenous peoples or treat them as passive bystanders of history, but also establishes the multiracial, instead of biracial, character of the army, and complicates the understanding of labor in the American West."
+        },
+        "Philosophy": {
+            "stance": "Counter-factive (Findings)",
+            "text": "Without a principled distinction of this sort it cannot be established that the extra value of knowledge derives from the extra credit the knower is due."
+        },
+        "Physics": {
+            "stance": "Factive (Findings)",
+            "text": "For example, it is established that under variation of some physical parameters such as the temperature and pressure, certain physical systems may undergo changes which are either shape distortions, variations of crystalline structures or conformational changes."
+        },
+        "Political Science": {
+            "stance": "Procedures (Findings)",
+            "text": "In addition to the conventional arguments that the welfare state actually fails to achieve its objectives of reducing inequality and poverty and whether, in any case, extensive welfare programs have deleterious economic consequences, much recent scholarship has been devoted to establishing that income maintenance programs are complicit in a variety of social pathologies."
+        }
+    }
+},
+{
+    "word": "estimate",
+    "definition": "To calculate or approximate the value, size, or extent of something, often based on incomplete or limited information.",
+    "common_forms": ["estimate", "estimated", "estimates", "estimating"],
+    "frequency": "26.36",
+    "examples": {
+        "Physics": {
+            "stance": "Procedures (Findings)",
+            "text": "For light quarks there may be substantial corrections, estimated in [3] and reviewed in [4]."
+        },
+        "Political Science": {
+            "stance": "Tentative",
+            "text": "These studies estimate that achieving primary education for all will require between $9 and $28 billion of additional resources to education annually."
+        }
+    }
+},
+{
+    "word": "exaggerate",
+    "definition": "To calculate or approximate the value, size, or extent of something, often based on incomplete or limited information.",
+    "common_forms": ["exaggerate", "exaggerated", "exaggerates", "exaggerating"],
+    "frequency": "2.2",
+    "examples": {
+        "History": {
+            "stance": "Critical (Doubt)",
+            "text": "For one thing, the critics grossly exaggerate the association's participation in the anticommunist crusade, particularly its alleged purges; for another, they play down the ideological cleavages between the NAACP and the Communists."
+        }
+    }
+},
+{
+    "word": "examine",
+    "definition": "To inspect or scrutinize something closely, often in order to understand its nature, structure, or components.",
+    "common_forms": ["examine", "examined", "examines", "examining"],
+    "frequency": "297.26",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Procedures (Findings)",
+            "text": "In a recent study by Mohan and Slater (2005), classroom interactions are examined from the perspective of the Knowledge Framework to explore how young learners engage with the register of science at a very basic level."
+        },
+        "Biology": {
+            "stance": "Procedures (Findings)",
+            "text": "Fewer studies have examined how plant life history processes, such as diploidy vs. tetraploidy in allopolyploid species, or other intrinsic drivers may affect susceptibility to herbivores (Nuismer and Thompson 2001, Lou and Baldwin 2003)."
+        },
+        "History": {
+            "stance": "Procedures (Findings)",
+            "text": "Diana K. Davis has recently examined European narratives of environmental decline in North Africa in the nineteenth and twentieth centuries, while David Arnold and Paul Carter have assessed European responses to unfamiliar landscapes and how such landscapes became objects of desire, fear, and mastery in India and Australia respectively."
+        },
+        "Philosophy": {
+            "stance": "Procedures (Findings)",
+            "text": "In this paper I want to examine the relationship between truth, specifically the realist vocabulary of truth, and liberal politics via the different positions of Williams and Rorty."
+        },
+        "Physics": {
+            "stance": "Procedures (Findings)",
+            "text": "Kahnert [2004] examined the feasibility of employing a spheroid model for reproducing the scattering matrices of desert dust represented by 110 different types of particles with low symmetry (4- and 5-hedral prisms with different aspect ratios)."
+        },
+        "Political Science": {
+            "stance": "Procedures (Findings)",
+            "text": "A subset of research within the voting behaviour literature has examined citizens' reasoning processes and, in particular, how it is that individuals are able to make decisions with little or no information."
+        }
+    }
+},
+{
+    "word": "expect",
+    "definition": "To anticipate or foresee something happening, often based on prior knowledge or experience.",
+    "common_forms": ["expect", "expected", "expecting", "expects"],
+    "frequency": "200.61",
+    "examples": {
+        "Physics": {
+            "stance": "Positive",
+            "text": "It is expected that favorable intramolecular van der Waals interactions, resulting from the alignment of adjacent chains in long n-alkanes, will allay the energetic cost of forming the gauche bonds necessary to align the chains."
+        },
+        "Political Science": {
+            "stance": "Neutral",
+            "text": "He expected to find that blacks high in income, highly educated, and professional and skilled blacks to be more supportive than blacks lower on these strata."
+        }
+    }
+},
+{
+    "word": "explain",
+    "definition": "To make something clear or understandable by providing reasons, justifications, or descriptions, often in response to a question or request for clarification.",
+    "common_forms": ["explain", "explained", "explaining", "explains"],
+    "frequency": "276.98",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Factive (Assurance)",
+            "text": "Myers (1989b), for example, draws on politeness theory (Brown & Levinson, 1987) to explain pronoun and other choices in scientific writing particularly with regard to the hedging of claims."
+        },
+        "History": {
+            "stance": "Factive (Assurance)",
+            "text": "It is used to explain and to summarize the changes that took place during the eleven-fifties, when the dynastic warfare that distinguished the 'anarchy' was ended by agreement, and the unlicensed private conflict that had flourished in the shelter of dynastic warfare was settled and repressed."
+        },
+        "Physics": {
+            "stance": "Counter-factive (Findings)",
+            "text": "But, the real nature of the ferroelectric phase transition and the isotope effect on Tc for HD exchange in KHPO4 or KDP type ferroelectric has not been fully explained."
+        },
+        "Political Science": {
+            "stance": "Critical (Doubt)",
+            "text": "Although he does not explain why this is the case, it is presumably because leaders fear the electoral consequences of failing to respond to issues the public deems urgent."
+        }
+    }
+},
+{
+    "word": "explore",
+    "definition": "To investigate or examine something thoroughly or systematically, often in order to discover new information or insights.",
+    "common_forms": ["explore", "explored", "explores", "exploring"],
+    "frequency": "154.28",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Non-factive (Findings)",
+            "text": "White (2001) explored the reasons why a student who has produced a grammatically acceptable text failed to fulfil the requirements of the writing task and indicated that cultural expectancies influence the perceived success or failure of written communication."
+        },
+        "Philosophy": {
+            "stance": "Non-factive (Assurance)",
+            "text": "In his book Truth and Truthfulness, Bernard Williams explores what he sees as a paradox of modern thought and culture."
+        },
+        "Political Science": {
+            "stance": "Procedures (Findings)",
+            "text": "One issue to bear in mind is that studies exploring the impact of resources on educational access tend to measure resources differently."
+        }
+    }
+},
+{
+    "word": "express",
+    "definition": "To convey or communicate a thought, feeling, or idea, often through words or actions.",
+    "common_forms": ["express", "expressed", "expresses", "expressing"],
+    "frequency": "177.65",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Non-factive (Assurance)",
+            "text": "However, they have expressed some reservations about the greater emphasis on expressing and sharing opinions (Hui, 1997) and about the value of peer interaction (McDonough, 2004)."
+        },
+        "History": {
+            "stance": "Non-factive (Assurance)",
+            "text": "Lord Reith, speaking in the house of lords, expressed the sentiments thus: the planning system must be ready."
+        },
+        "Physics": {
+            "stance": "Non-factive (Assurance)",
+            "text": "Hence, the variable associated with the polarization is considered to take several discrete values, effectively expressed by 'spin variable.'"
+        },
+        "Political Science": {
+            "stance": "Positive",
+            "text": "Acknowledging the recent transformation of the political regime governing Toronto, Savitch and Kantor express skepticism about the 'American tactics' adopted by the Ontario government under Mike Harris: 'Mass transit and housing subsidies have been cut, the costs of social services have been pushed onto the city, environmental regulations have been relaxed, development has been allowed in environmentally sensitive areas, and privatization has been encouraged' (2002: 280)."
+        },
+        "Political Science_2": {
+            "stance": "Non-factive (Assurance)",
+            "text": "President George H. W. Bush, though he expressed his desire 'to see greater Chinese adherence to international standards of human rights, free and fair trade practices, and international non-proliferation norms,' nonetheless believed that 'adding broad conditions to China's MFN renewal would not lead to faster progress in advancing our goals' (quoted in Congressional Quarterly, 1992, p. 158)."
+        }
+    }
+},
+{
+    "word": "extend",
+    "definition": "To stretch or reach out something to a greater distance or period, often in order to include more or make it longer.",
+    "common_forms": ["extend", "extended", "extending", "extends"],
+    "frequency": "38.14",
+    "examples": {
+        "Physics": {
+            "stance": "Procedures (Findings)",
+            "text": "Next, in [7,8], they tried to extend their results to three loop amplitudes."
+        }
+    }
+},
+{
+    "word": "extrapolate",
+    "definition": "To infer or estimate something based on known information or data, often by extending it beyond its original scope or context.",
+    "common_forms": ["extrapolate", "extrapolated", "extrapolates", "extrapolating"],
+    "frequency": "1.69",
+    "examples": {
+        "Physics": {
+            "stance": "Procedures (Findings)",
+            "text": "Specifically, the authors extrapolated the findings for ZnC to Watson-Crick (WC) G-C and A-T base pairs proposing that the Zn ions could be placed between G-C and A-T base pairs."
+        }
+    }
+},
+{
+    "word": "favor",
+    "definition": "To support or prefer one option or choice over others, often based on personal preference or bias.",
+    "common_forms": ["favor", "favored", "favoring", "favors"],
+    "frequency": "15.1",
+    "examples": {
+        "Physics": {
+            "stance": "Positive",
+            "text": "In 1999, Lee and co-workers favored the former interpretation and proposed a model structure for M-DNA."
+        }
+    }
+},
+{
+    "word": "find",
+    "definition": "To discover or come across something, often as a result of investigation or search.",
+    "common_forms": ["finding", "finds", "found"],
+    "frequency": "958.61",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Factive (Findings)",
+            "text": "Goss, Ying-Hua and Lantolf (1994), who compared grammatical judgement tasks completed individually and in pairs by learners of Spanish, found modest differences in favour of pairs and only on some grammatical features."
+        },
+        "Biology": {
+            "stance": "Factive (Findings)",
+            "text": "Two recent studies in temperate lakes (Vander Zanden et al. 1999a, Post et al. 2000) found no effect of productivity or productive space in determining food-chain length, but instead observed a direct correlation between food-chain length and ecosystem size."
+        },
+        "Physics": {
+            "stance": "Non-factive (Findings)",
+            "text": "They found that, as a function of the coupling constants, the quantity is singular at the transition point of the model and obeys scaling law in its vicinity."
+        },
+        "Political Science": {
+            "stance": "Neutral",
+            "text": "For example, Stanley Hoffman finds Wilson's understanding of American exceptionalism to be at the center of virtue in American foreign policy."
+        }
+    }
+},
+{
+    "word": "focus",
+    "definition": "To concentrate attention or effort on a specific topic or aspect, often in order to explore it in depth or achieve a particular goal.",
+    "common_forms": ["focus", "focused", "focuses", "focusing"],
+    "frequency": "304.63",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Neutral",
+            "text": "Kasper (2004) focuses on the ways through which the participants invoke different language identities by orienting to trouble with the production talk in German. Her analyses demonstrate how the interaction moves back and forth between mundane conversation and institutional (instructional) talk brought off by the non-native speaker's repair initiations."
+        },
+        "History": {
+            "stance": "Procedures (Findings)",
+            "text": "Many of the accounts that do pay closer attention to Labour's relation to the land question, from both historians and Labour polemicists, focus on this change of policy and highlight what is seen as a discrepancy between party policy and government action."
+        },
+        "Physics": {
+            "stance": "Neutral",
+            "text": "Schrodinger focused on that aspect of the Dirac equation and introduced the concept of Zitterbewegung in an attempt to deal with this problem when obtaining general information about solutions to the Dirac equation."
+        },
+        "Political Science": {
+            "stance": "Procedures (Findings)",
+            "text": "Analyses have also focused on how different forms of insecurity are perceived and of the policy measures available to deal with them."
+        }
+    }
+},
+{
+    "word": "follow",
+    "definition": "To go or come after something in time, order, or sequence, often by adhering to a path or pattern.",
+    "common_forms": ["follow", "followed", "following", "follows"],
+    "frequency": "84.03",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Procedures (Findings)",
+            "text": "Richards, Ho, and Giblin (1996) followed five novice English as a foreign language teachers through a program of practice teaching sessions, and noted the insights these teachers expressed regarding what seemed important and helpful to classroom praxis."
+        }
+    }
+},
+{
+    "word": "foresee",
+    "definition": "To anticipate or predict something happening in the future, often based on knowledge or intuition.",
+    "common_forms": ["foresaw", "foresee", "foreseeing", "foreseen", "foresees"],
+    "frequency": "2.4",
+    "examples": {
+        "History": {
+            "stance": "Tentative",
+            "text": "Did the Middle East-or, for that matter, any other part of the world outside Western Europe- have an 'early modern' period? Or is it simply a concept recklessly borrowed from the historiography of Europe, for which it was first devised? Skeptics foresee a repetition of the same mistakes that once doomed modernization theory, and worry that the search for 'early modernity' will lead to a vain attempt to find-or artificially impose-European norms on non-European societies."
+        }
+    }
+},
+{
+    "word": "formulate",
+    "definition": "To create or devise something, often by putting together various elements or components.",
+    "common_forms": ["formulate", "formulated", "formulates", "formulating"],
+    "frequency": "9.79",
+    "examples": {
+        "Physics": {
+            "stance": "Procedures (Findings)",
+            "text": "Formally string theories in the perturbative approach can be formulated using the path integral formalism outlined by Polyakov, and this is the starting point for the computation of the scattering amplitudes."
+        }
+    }
+},
+{
+    "word": "generalize",
+    "definition": "To make a broad statement or inference about a group or category based on particular instances or examples.",
+    "common_forms": ["generalize", "generalized", "generalizes", "generalizing"],
+    "frequency": "7.28",
+    "examples": {
+        "Physics": {
+            "stance": "Non-factive (Assurance)",
+            "text": "Furthermore, some authors generalized this concept to itinerant fermion systems [25][27]."
+        }
+    }
+},
+{
+    "word": "generate",
+    "definition": "To produce or create something, often as a result of a process or action.",
+    "common_forms": ["generate", "generated", "generates", "generating"],
+    "frequency": "48.16",
+    "examples": {
+        "Political Science": {
+            "stance": "Factive (Findings)",
+            "text": "Though this literature has generated important insights, the characteristics which tend to be associated with high levels of knowledge are either fixed (e.g., race, gender) or they change slowly (e.g., education, income)."
+        }
+    }
+},
+{
+    "word": "give",
+    "definition": "To provide or offer something to someone else, often as a gift or act of kindness.",
+    "common_forms": ["gave", "give", "given", "gives", "giving"],
+    "frequency": "721.6",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Procedures (Findings)",
+            "text": "Yuill and Oakhill (1991: 125–35) gave anomalous narratives to 7- to 8-year-old L2 readers who were skilled decoders, but either good or poor comprehenders."
+        },
+        "History": {
+            "stance": "Critical (Doubt)",
+            "text": "While such documents do not necessarily give voice to the interests, needs and concerns of contemporary Zanzibaris living under colonial rule in the late nineteenth century, they offer unambiguous testimony to the machinations of those in power, and clear illustrations of the manner in which colonial governmentality sovereign power operated at the time."
+        },
+        "Physics": {
+            "stance": "Factive (Findings)",
+            "text": "In particular, these calculations can give us another handle on the distance to the cloud in question, as well as the density of the ambient medium."
+        },
+        "Physics_2": {
+            "stance": "Non-factive (Assurance)",
+            "text": "In the last years much attention has been given to nonlinear excitations in low dimensional magnetic materials."
+        },
+        "Political Science": {
+            "stance": "Non-factive (Assurance)",
+            "text": "Perhaps the explanation Keynes (1964) gave for the opposition by economists to the General Theory applies here once more."
+        }
+    }
+},
+{
+    "word": "highlight",
+    "definition": "To emphasize or draw attention to something as particularly important or noteworthy, often by making it more prominent.",
+    "common_forms": ["highlight", "highlighted", "highlighting", "highlights"],
+    "frequency": "71.02",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Factive (Assurance)",
+            "text": "Focusing on the organization of different types of instructional activities in L2 education, Seedhouse (2004) highlights the reflexive relationship between the local organization of turns at talk and the curricular focus of the activities in which that talk is embedded."
+        },
+        "History": {
+            "stance": "Factive (Assurance)",
+            "text": "Michael Hogg and Deborah Terry highlight the comforting regulatory nature of associational continuity."
+        },
+        "Political Science": {
+            "stance": "Non-factive (Assurance)",
+            "text": "More recently, the importance of social group identification was highlighted by André Blais's presidential address to the Canadian Political Science Association, and he rekindled a longstanding interest in unpacking the relationship between social group identification and vote choice when he argued that we really do not know much about why the social group has had such a large impact on attitudes (2005)."
+        }
+    }
+},
+{
+    "word": "hint",
+    "definition": "To suggest or imply something indirectly or subtly, often without explicitly stating it.",
+    "common_forms": ["hint", "hinted", "hinting", "hints"],
+    "frequency": "1.22",
+    "examples": {
+        "Political Science": {
+            "stance": "Tentative (Doubt)",
+            "text": "Mendelsohn and Nadeau's (1997) results hint at a relationship between voters' social group identities and information levels that conflict with the notion of the social group as a simple shortcut and leave us with an important and unresolved question: what is the relationship between social group identity and levels of information in explaining attitudes and vote choice?"
+        }
+    }
+},
+{
+    "word": "hold",
+    "definition": "To maintain or keep something in one's possession, control, or beliefs, often with firmness or determination.",
+    "common_forms": ["held", "hold", "holding", "holds"],
+    "frequency": "74.27",
+    "examples": {
+        "Philosophy": {
+            "stance": "Positive",
+            "text": "Specifically, in the case of abortion, Hursthouse holds that the question of the foetus's moral status strains the virtue of wisdom."
+        }
+    }
+},
+{
+    "word": "hypothesize",
+    "definition": "To propose or suggest a tentative explanation or theory, often as a starting point for further investigation or discussion.",
+    "common_forms": ["hypothesize", "hypothesized", "hypothesizes", "hypothesizing"],
+    "frequency": "24.04",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Tentative (Doubt)",
+            "text": "Swain (1998) has hypothesized that noticing a gap in their linguistic knowledge may prompt learners 'to recognize consciously some of their linguistic problems: it may bring to their attention something they need to discover about their second language (possibly directing their attention to relevant input)' (p. 67)."
+        },
+        "Political Science": {
+            "stance": "Neutral",
+            "text": "Also, in line with his self-interest argument, he hypothesized that middle-aged blacks and younger blacks would be more supportive than older blacks."
+        }
+    }
+},
+{
+    "word": "identify",
+    "definition": "To recognize or distinguish something as being particular or distinct from others, often by name or characteristic.",
+    "common_forms": ["identified", "identifies", "identify", "identifying"],
+    "frequency": "435.45",
+    "examples": {
+        "History": {
+            "stance": "Critical (Doubt)",
+            "text": "Thompson was right to note the significance of human submission to clock time, but he incorrectly identified the historical origins of time discipline."
+        },
+        "Political Science": {
+            "stance": "Non-factive (Findings)",
+            "text": "A number of excellent studies have identified punctuations in a topic area and documented how actors outside the subsystem can reframe an issue, mobilize support among the previously apathetic, and draw sufficient attention to the problem to shift the problem onto the macropolitical agenda of Congress."
+        }
+    }
+},
+{
+    "word": "ignore",
+    "definition": "To disregard or pay no attention to something, often intentionally or willfully.",
+    "common_forms": ["ignore", "ignored", "ignores", "ignoring"],
+    "frequency": "23.33",
+    "examples": {
+        "History": {
+            "stance": "Critical (Doubt)",
+            "text": "Studies that examine the lives of the common soldier have ignored indigenous presence, while histories of army campaigns often notice indigenous contributions only in passing, merely reminding readers that indigenous men participated in the action."
+        }
+    }
+},
+{
+    "word": "illustrate",
+    "definition": "To provide examples or visual aids to clarify or explain a concept or idea, often in order to make it easier to understand.",
+    "common_forms": ["illustrate", "illustrated", "illustrates", "illustrating"],
+    "frequency": "100.23",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Non-factive (Assurance)",
+            "text": "Studies with advanced and intermediate ESL (Chern 1993; Nassaji 2003, respectively) and beginning EFL learners (Haastrup 1989) illustrated that learners of all levels relied on background knowledge to guess word meanings during think-aloud protocols."
+        },
+        "Political Science": {
+            "stance": "Factive (Findings)",
+            "text": "These results illustrate the importance of distinguishing among all major regions, and not just between Quebec and the rest of Canada, when assessing regional variations in voluntary activity."
+        }
+    }
+},
+{
+    "word": "immortalize",
+    "definition": "To make something famous or memorable for a long time, often through enduring recognition or celebration.",
+    "common_forms": ["immortalize", "immortalized", "immortalizing"],
+    "frequency": "0.09",
+    "examples": {
+        "History": {
+            "stance": "Tentative (Doubt)",
+            "text": "The Russian Revolution of 1917 has been immortalized in U.S."
+        }
+    }
+},
+{
+    "word": "implicate",
+    "definition": "To suggest or indicate something; to cause something.",
+    "common_forms": ["implicate", "implicated", "implicates", "implicating"],
+    "frequency": "2.31",
+    "examples": {
+        "Biology": {
+            "stance": "Non-factive (Assurance)",
+            "text": "Much of this research has implicated spatial or temporal variation in herbivore pressure as the driver of these differences (Cronin and Hay 1996b)."
+        }
+    }
+},
+{
+    "word": "imply",
+    "definition": "To suggest something indirectly or without stating it outright.",
+    "common_forms": ["implied", "implies", "imply", "implying"],
+    "frequency": "82.6",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Tentative (Doubt)",
+            "text": "However, he implied that the non-native speaker does not possess a complete inventory of possible alternatives, does not recognise the sociolinguistic constraints of those alternatives, and does not know what constraints a choice imposes on the text."
+        },
+        "Political Science": {
+            "stance": "Tentative (Doubt)",
+            "text": "In other words, it is implied that discourse plays an active role in the construction of the social knowledge that becomes a point of reference for individuals, social groups, nation states and international bodies in analysing the challenges facing our global civilisations and in devising a prescription for social change-the judgements made and decisions taken by these various stakeholders being based on the social knowledge communicated and constructed through discourse."
+        }
+    }
+},
+{
+    "word": "improve",
+    "definition": "To make something better or more satisfactory, often by enhancing its quality or performance.",
+    "common_forms": ["improve", "improved", "improves", "improving"],
+    "frequency": "132.17",
+    "examples": {
+        "Physics": {
+            "stance": "Procedures (Findings)",
+            "text": "The inclusion of leading-order correction to the nonlinear clustering effect somehow improves a performance and reproduces the N-body results very well (Jeong & Komatsu 2006)."
+        }
+    }
+},
+{
+    "word": "include",
+    "definition": "To contain or encompass something as part of a larger whole or group, often by incorporating it within a set or category.",
+    "common_forms": ["include", "included", "includes", "including"],
+    "frequency": "730.04",
+    "examples": {
+        "Applied Linguistics": {
+            "stance": "Non-factive (Assurance)",
+            "text": "For example, while Johns and Mayes (1990) and Winograd (1984) include paraphrase as a form of reproduction in which students almost exactly copy one sentence of a source text, Campbell (1990) makes a distinction between such near verbatim reproduction (what she calls Near Copies) and the strategy of Paraphrase, which she describes as involving 'more syntactic changes of the original."
+        },
+        "Political Science": {
+            "stance": "Procedures (Findings)",
+            "text": "More recent studies have included household size and composition, education level, landholding size, livestock quantity, agricultural goods produced, and access to services (Kakwani, 1993; Coulombe and Mckay, 1996; Grootaert, 1997; Datt and Jolliffe, 1999; Datt et al."
+        }
+    }
+},
+    {
+        "word": "incorporate",
+        "definition": "To include or integrate something as part of a larger whole, often by combining it with other elements or components.",
+        "common_forms": ["incorporate", "incorporated", "incorporates", "incorporating"],
+        "frequency": "98.94",
+        "examples": {
+            "History": {
+                "stance": "Procedures (Findings)",
+                "text": "In contrast to their wariness about reminiscences, scholars of Africa have readily incorporated these oral traditions into their work in refreshingly productive and innovative ways."
+            },
+            "Political Science": {
+                "stance": "Procedures (Findings)",
+                "text": "The policy-design framework developed by Ingram and Schneider used in this article incorporates many of these language-based insights into its analytical categories."
+            }
+        }
+    },
+    {
+        "word": "indicate",
+        "definition": "To point out or suggest something, often indirectly or by means of signs or signals, in order to convey meaning or provide guidance.",
+        "common_forms": ["indicate", "indicated", "indicates", "indicating"],
+        "frequency": "429.02",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Non-factive (Assurance)",
+                "text": "In addition, research has indicated that cultural capital, including prior knowledge and language skills, acts as a filter in disadvantaging L2 students who do not possess English language proficiency (Garcia & Gopal, 2003)."
+            },
+            "History": {
+                "stance": "Non-factive (Assurance)",
+                "text": "Indicating that indigenous duty was mainly reconnaissance, the term “scout” poorly describes what Apache and Pawnee men actually did in the army."
+            },
+            "Physics": {
+                "stance": "Tentative (Doubt)",
+                "text": "In recent years, experimental studies have indicated that secondary species generated by the primary ionizing particle can also play a significant role in radiation damage to DNA [1, 2]."
+            },
+            "Political Science": {
+                "stance": "Non-factive (Assurance)",
+                "text": "At the same time, work by Hutchings (2001, 2003) indicates that the environment might work more selectively."
+            }
+        }
+    },
+    {
+        "word": "infer",
+        "definition": "To deduce or conclude something from evidence or reasoning, often by drawing logical conclusions.",
+        "common_forms": ["infer", "inferred", "inferring", "infers"],
+        "frequency": "7.74",
+        "examples": {
+            "Physics": {
+                "stance": "Non-factive (Findings)",
+                "text": "Merloni et al. (2024) compare the integrated quasar luminosity and stellar mass densities, and infer a much weaker evolution of the form (z) / (1 z)0:5, but this is subject to systematic uncertainties in quasar radiative efficiencies and (as discussed below) in observational completeness and galaxy type segregation at low luminosities."
+            }
+        }
+    },
+    {
+        "word": "insist",
+        "definition": "To demand or assert something firmly or persistently, often in spite of opposition or resistance.",
+        "common_forms": ["insist", "insisted", "insists"],
+        "frequency": "14.38",
+        "examples": {
+            "Political Science": {
+                "stance": "Positive",
+                "text": "The two scholars also insist on the city’s civic culture."
+            }
+        }
+    },
+    {
+        "word": "inspire",
+        "definition": "To motivate or encourage someone to do something, often by arousing feelings of admiration or excitement.",
+        "common_forms": ["inspire", "inspired", "inspires", "inspiring"],
+        "frequency": "9.32",
+        "examples": {
+            "Political Science": {
+                "stance": "Positive",
+                "text": "Simple and elegant, Downs’ theory has inspired a substantial literature (Baumgartner and Jones 1993; Hilgartner and Bosk 1988; Peters and Hogwood 1985)."
+            }
+        }
+    },
+    {
+        "word": "integrate",
+        "definition": "To combine or merge things into a unified whole, often in order to enhance their effectiveness or coherence.",
+        "common_forms": ["integrate", "integrated", "integrates", "integrating"],
+        "frequency": "25.65",
+        "examples": {
+            "History": {
+                "stance": "Factive (Assurance)",
+                "text": "Scholars of slavery have helped integrate the Haitian Revolution of 1791–1804 into analyses of the antebellum South, and specialists on voting rights have noted that the formal disfranchisement of black voters corresponded to the moment of U."
+            },
+            "Political Science": {
+                "stance": "Procedures (Findings)",
+                "text": "Theoretical Foundations and Background Baumgartner and Jones’ (1993, 2002) notions of long periods of equilibrium punctuated by bursts of change integrates and builds upon the substantial literature on policy subsystems, Cobb and Elder’s (1971) distinction between systemic and formal agendas, and Kingdon’s (1995) ideas of policy streams, windows of opportunity, and policy entrepreneurs."
+            }
+        }
+    },
+    {
+        "word": "interpret",
+        "definition": "To explain or understand the meaning or significance of something, often based on analysis or personal perspective.",
+        "common_forms": ["interpret", "interpreted", "interpreting", "interprets"],
+        "frequency": "94.14",
+        "examples": {
+            "Physics": {
+                "stance": "Non-factive (Assurance)",
+                "text": "This has been interpreted as due to a gradual change in the shape of the nucleus from collective prolate at low spins to non-collective oblate at high spins, associated with the alignment of the angular momentum vectors of the valance nucleons with the rotational axis."
+            },
+            "Political Science": {
+                "stance": "Tentative",
+                "text": "It is almost certainly not his aim to raise fears about the demise of Britishness, but it can be interpreted in that way by those so inclined."
+            }
+        }
+    },
+    {
+        "word": "introduce",
+        "definition": "To present or bring something into existence for the first time, often in order to familiarize others with it.",
+        "common_forms": ["introduce", "introduced", "introduces", "introducing"],
+        "frequency": "124.61",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Non-factive (Assurance)",
+                "text": "Potter, So, Eckhardt, and Feldman (1984) introduced two models of lexical and semantic representations in bilingual learners’ minds: the word association model and the concept mediation model."
+            },
+            "Physics": {
+                "stance": "Factive (Findings)",
+                "text": "These models were taken into account using different concepts like the unified anharmonic oscillator model by Onodera,16 or the simple microscopic model in terms of local normal coordinates by Salje et al.,14 which was later reformulated and introduced by Perez-Mato and Salje;17 for most of them, their starting point is the anharmonic potential."
+            },
+            "Political Science": {
+                "stance": "Non-factive (Assurance)",
+                "text": "In “Up and Down with Ecology: The Issue Attention Cycle,” his classic article introducing this concept, Downs (1972) argued that public interest in certain types of social problems tends to undergo abrupt, but fleeting upswings that have little to do with the objective conditions surrounding the problem."
+            }
+        }
+    },
+    {
+        "word": "investigate",
+        "definition": "To examine or inquire into a subject systematically in order to uncover facts, gather information, or discover new insights.",
+        "common_forms": ["investigate", "investigated", "investigates", "investigating"],
+        "frequency": "106.32",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Procedures (Findings)",
+                "text": "Rose and Ng (2001) investigated the effectiveness of the deductive and inductive approaches in the teaching of compliments and responses to compliments."
+            },
+            "Philosophy": {
+                "stance": "Procedures (Findings)",
+                "text": "Secondly, I investigate to what extent a genuinely Human meta-ethic can support non-anthropocentric environmental ethics."
+            },
+            "Physics": {
+                "stance": "Procedures (Findings)",
+                "text": "In [27], the temperature dependence of the SU(2) gluon condensate was investigated on the lattice, and, indeed a linear rise of the gluon condensate with temperature was observed."
+            },
+            "Political Science": {
+                "stance": "Procedures (Findings)",
+                "text": "Tate (1993) investigates black opinion on affirmative action using the 1984 Black National Election Study."
+            }
+        }
+    },
+    {
+        "word": "know",
+        "definition": "To possess understanding or awareness of something, often through personal experience or learning.",
+        "common_forms": ["knew", "knowing", "known", "knows"],
+        "frequency": "627.91",
+        "examples": {
+            "Physics": {
+                "stance": "Positive",
+                "text": "It is known that nanocrystalline anatase has higher photocatalytic activity than other titania nanophases and bulk titania."
+            }
+        }
+    },
+    {
+        "word": "look",
+        "definition": "To direct one’s gaze or attention toward something, often in search of information or insight.",
+        "common_forms": ["look", "looked", "looking", "looks"],
+        "frequency": "300.67",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Tentative (Doubt)",
+                "text": "Another warning is offered by Zhu (2001), who looks in detail at the functions of turns at talk in peer groups comprising students of mixed language backgrounds."
+            },
+            "Political Science": {
+                "stance": "Procedures (Findings)",
+                "text": "There have been few published studies that look at measures of poverty and its determinants in Kazakhstan (Fergus, 2003; Zeller and Alcaraz, 2005; Esanov, 2006)."
+            }
+        }
+    },
+    {
+        "word": "maintain",
+        "definition": "To uphold or continue something, often in the face of opposition or challenge.",
+        "common_forms": ["maintain", "maintained", "maintaining", "maintains"],
+        "frequency": "216.75",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Non-factive (Assurance)",
+                "text": "Entwisle maintains that the syntagmatic-paradigmatic shift is a function of language exposure and knowledge of the individual word, since words are being acquired and consolidated in the mental lexicon at all times."
+            },
+            "Biology": {
+                "stance": "Tentative",
+                "text": "Thus some authors (e.g., Francis and Currie 1998, 2003) maintain that current global patterns of species diversity are determined by contemporary environmental factors, such as available energy, while others have argued that differences in biogeographic history are more important than contemporary environment (Latham and Ricklefs 1993, Ricklefs and Latham 1993)."
+            },
+            "History": {
+                "stance": "Positive",
+                "text": "They maintain that fire had little to do with grassland creation or maintenance, that the Great Plains are almost exclusively a byproduct of climate change."
+            },
+            "Philosophy": {
+                "stance": "Factive (Assurance)",
+                "text": "Other compatibilists maintain that arguments for the incompatibility of externalism and authoritative self-knowledge depend on a conflation of knowledge of content simpliciter with discriminative or comparative knowledge of content (knowledge of sameness or difference of content)."
+            }
+        }
+    },
+    {
+        "word": "make",
+        "definition": "To create or produce something, often through action or effort, in order to bring it into existence.",
+        "common_forms": ["made", "make", "makes", "making"],
+        "frequency": "1493.15",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Factive (Assurance)",
+                "text": "In addition, Dauer (1983) makes a good case for there being factors other than differences in interstress intervals, or the lack thereof, that make languages sound more or less stress based; these factors are syllable structure, vowel reduction, and word stress or accent."
+            },
+            "History": {
+                "stance": "Procedures (Findings)",
+                "text": "Many even make slave narratives a key part of their analysis, interweaving biographical and autobiographical accounts with economic, demographic, cultural, and other relevant evidence."
+            },
+            "Physics": {
+                "stance": "Non-factive (Findings)",
+                "text": "An impressive machinery has been developed within the renormalization-group flow approach to YangMills thermodynamics both in the imaginary- [30, 31] and the real-time approach [32, 33], the latter reference making important observations concerning the (nonperturbative) temperature dependence of the thermal gluon mass."
+            },
+            "Political Science": {
+                "stance": "Factive (Assurance)",
+                "text": "Such a critique of El Salvador’s hybrid PTT provides further support for claims being made by scholars monitoring the effects of MLAR in other countries, such as the Philippines, that such an approach severely undermines efforts at needed redistributive reform by the state."
+            }
+        }
+    },
+    {
+        "word": "measure",
+        "definition": "To determine the size, quantity, or degree of something, often using standardized units or criteria.",
+        "common_forms": ["measure", "measured", "measures", "measuring"],
+        "frequency": "200.12",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Procedures (Findings)",
+                "text": "Pulido (2000, 2003) measured retention after a cross-section of adult learners of Spanish read two stories describing more familiar scenarios (grocery shopping and doctor visit) and two describing less familiar scenarios (publishing and homebuying)."
+            },
+            "Physics": {
+                "stance": "Procedures (Findings)",
+                "text": "To study the surface stress change induced by adsorption, which is properly described by Stoney’s formula,24–26 Godin and co-workers-30 measured the surface stress change of the gold surface due to alkanethiol adsorption by integrating a microcantilever-based sensor with an ellipsometer in a scanning tunneling microscope."
+            },
+            "Political Science": {
+                "stance": "Procedures (Findings)",
+                "text": "Political Participation, Mobilization, and Voter Segmentation Political scientists most often measure political incorporation by political participation, particularly voter turnout."
+            }
+        }
+    },
+    {
+        "word": "mention",
+        "definition": "To refer to or bring up something briefly or casually in conversation or writing.",
+        "common_forms": ["mention", "mentioned", "mentioning", "mentions"],
+        "frequency": "108.01",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Factive (Assurance)",
+                "text": "Some authors note biculturality or interculturality as an asset of NNESTs: For example, Nemtchinova (2005) mentions that NNES teacher trainees’ “study of language and culture other than their own enables them to make explicit cross-cultural comparisons and contrasts. . . and to weave these observations into their teaching” (p. 254)."
+            },
+            "Applied Linguistics_2": {
+                "stance": "Non-factive (Assurance)",
+                "text": "Richards (1993) also mentions “personal causation,” “interest,” and “enjoyment” as indispensable factors."
+            },
+            "Political Science": {
+                "stance": "Non-factive (Assurance)",
+                "text": "Given its centrality, the confidence convention has certainly been mentioned often enough in academic discussions."
+            }
+        }
+    },
+    {
+        "word": "neglect",
+        "definition": "To fail to give proper attention or care to something, often resulting in its deterioration.",
+        "common_forms": ["neglect", "neglected", "neglecting", "neglects"],
+        "frequency": "19.93",
+        "examples": {
+            "History": {
+                "stance": "Counter-factive (Findings)",
+                "text": "Few new monographs of North American slavery of any stripe-especially those focused on the nineteenth century, in which such evidence is richest-neglect to pay homage to the experiences of slaves as told by captives themselves."
+            }
+        }
+    },
+    {
+        "word": "note",
+        "definition": "To briefly mention or record something, usually to draw attention to it or to provide additional context or information.",
+        "common_forms": ["note", "noted", "notes", "noting"],
+        "frequency": "339.28",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Factive (Assurance)",
+                "text": "There are those, as Gass (1995) noted, who suggest that classroom concerns should not dictate the pursuits of SLA research or determine its goals."
+            },
+            "History": {
+                "stance": "Factive (Assurance)",
+                "text": "“On the other hand,” botanist Daniel Axelrod noted, “a considerable body of evidence has been assembled to indicate that fire has had a major role in the spread of grasslands.”"
+            },
+            "Physics": {
+                "stance": "Factive (Assurance)",
+                "text": "Sakai and Sugimoto noted that in this setup there is a very nice interpretation of chiral symmetry breaking."
+            },
+            "Political Science": {
+                "stance": "Factive (Assurance)",
+                "text": "Other scholars have noted that the complex and compactly written stories of print news outlets require a certain level of literacy (Graber 1994; also see Kleinnijenhuis 1991)."
+            }
+        }
+    },
+    {
+        "word": "observe",
+        "definition": "To watch or notice something carefully, often in order to gather information or make assessments.",
+        "common_forms": ["observe", "observed", "observes", "observing"],
+        "frequency": "215.13",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Non-factive (Findings)",
+                "text": "In a cross-sectional study Lee and Wolf (1997) observed that native Spanish speakers used background knowledge the most to infer meaning, followed by the advanced, intermediate, and then beginning learners of Spanish during a retrospective think-aloud task."
+            },
+            "History": {
+                "stance": "Non-factive (Findings)",
+                "text": "As Frederick Cooper has observed about this gap in the scholarship, “The disappearance of the category of colonial empire is fundamental to the erasure of the people who once received so much attention and who once saw themselves as representing the fusion of metropole and colony, the human dynamic of an imperial process."
+            },
+            "Physics": {
+                "stance": "Non-factive (Findings)",
+                "text": "Lee and co-workers do not offer an explanation as to how the Zn atom could be extruded, but they have observed that adding EDTA to a solution of M-DNA produces a rapid conversion to biological DNA (B-DNA)."
+            }
+        }
+    },
+    {
+        "word": "offer",
+        "definition": "To present or propose something for consideration or acceptance, often as a suggestion or solution.",
+        "common_forms": ["offer", "offered", "offering", "offers"],
+        "frequency": "314.07",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Non-factive (Findings)",
+                "text": "Although the findings of Fathman and Whalley (1990) offer positive evidence of the value of corrective feedback, it should be noted that their post-test only required a revision of the pre-test rather than the writing of a new text."
+            },
+            "History": {
+                "stance": "Non-factive (Assurance)",
+                "text": "While such documents do not necessarily give voice to the interests, needs and concerns of contemporary Zanzibaris living under colonial rule in the late nineteenth century, they offer unambiguous testimony to the machinations of those in power, and clear illustrations of the manner in which colonial governmentality sovereign power operated at the time."
+            },
+            "Physics": {
+                "stance": "Critical (Doubt)",
+                "text": "Lee and co-workers do not offer an explanation as to how the Zn atom could be extruded, but they have observed that adding EDTA to a solution of M-DNA produces a rapid conversion to biological DNA (B-DNA)."
+            },
+            "Political Science": {
+                "stance": "Counter-factive (Findings)",
+                "text": "But while these concepts and frameworks speak to the general principles and relationships that distinguish Aboriginal self-government and selfgoverning arrangements from other federal forms, they do not offer a model for understanding the specific political and intergovernmental dynamics of the proposed system in Nunavik."
+            }
+        }
+    },
+    {
+        "word": "perform",
+        "definition": "To carry out or execute a task or activity, often with skill or proficiency.",
+        "common_forms": ["perform", "performed", "performing", "performs"],
+        "frequency": "229.46",
+        "examples": {
+            "Physics": {
+                "stance": "Procedures (Findings)",
+                "text": "In addition, theoretical investigation of KDP-type phase diagram was performed by Blinc,22 and recently by Mashiyama,24 whose results, using linear response theory and mean-field approximation, have reported that the two level system is essential both for KDP and DKDP."
+            }
+        }
+    },
+    {
+        "word": "point",
+        "definition": "To indicate or draw attention to something, often by specifying its location or significance.",
+        "common_forms": ["point", "pointed", "pointing", "points"],
+        "frequency": "35.82",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Factive (Assurance)",
+                "text": "In general, researchers point to a lack of empirical research in psycholinguistics concerning cognitive processes underlying the acquisition and usage of grammatical knowledge and the need for such research so that pedagogical recommendations can be less intuitive in nature than they have been to date."
+            },
+            "History": {
+                "stance": "Factive (Assurance)",
+                "text": "As Daniel Binchy pointed out in his immensely detailed study of the relationship between catholicism and fascism, Italian cardinals, archbishops, bishops and other prominent clergy frequently expressed an uncritically enthusiastic support for fascism and its contribution to Italian life."
+            },
+            "Physics": {
+                "stance": "Factive (Assurance)",
+                "text": "It had been pointed out by Breit [8] that the position vector associated with the Dirac equation always moves with velocity c, despite the fact that, as observed in the laboratory, a force-free electron can move at any velocity less than c."
+            },
+            "Political Science": {
+                "stance": "Non-factive (Assurance)",
+                "text": "Together, then, these works point to the possibility that, in addition to creating obstacles to the overall strength of political parties in the United States, constitutional provisions may have other implications for the party system."
+            }
+        }
+    },
+    {
+        "word": "posit",
+        "definition": "To put forward or hypothesize something to be true, often without proof or evidence.",
+        "common_forms": ["posit", "posited", "positing", "posits"],
+        "frequency": "17.5",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Tentative (Doubt)",
+                "text": "Long’s (1983) psycholinguistic theory of interaction, building on the importance of comprehensible input to L2 learning (Krashen, 1981), posits that interaction between learners, in the form of moves such as confirmation checks and clarification requests can facilitate second language learning by providing learners with comprehensible input."
+            },
+            "Political Science": {
+                "stance": "Factive (Assurance)",
+                "text": "Some researchers focus on social vulnerability models positing that factors such as age, race, gender, and family circumstances affect citizen risk assessment and impressions of disaster threats (Dreier, 2006; Enarson, 1998; Fothergill, Maestas, & Darlington, 1999; Morrow, 1999)."
+            }
+        }
+    },
+    {
+        "word": "postulate",
+        "definition": "To propose or suggest something as a basis for further discussion or investigation, often as a hypothesis or assumption.",
+        "common_forms": ["postulate", "postulated", "postulates", "postulating"],
+        "frequency": "8.22",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Tentative (Doubt)",
+                "text": "He postulated that positive or pleasant experiences could lead to the development of positive attitudes, whereas negative experiences would provoke a negative reaction."
+            },
+            "History": {
+                "stance": "Tentative",
+                "text": "Whereas Kant postulated one philosophical manifold that made possible the apprehension of time, Herder emphasized the multiplicity and cultural embeddedness of temporal experience."
+            },
+            "Philosophy": {
+                "stance": "Tentative (Doubt)",
+                "text": "Basically, Jerne postulated that the immune system consists of antibodies recognizing other antibodies and lymphocytes recognizing other lymphocytes through unique (idiotypic) domains."
+            }
+        }
+    },
+    {
+        "word": "predict",
+        "definition": "To forecast or estimate what will happen in the future, often based on current trends or patterns.",
+        "common_forms": ["predict", "predicted", "predicting", "predicts"],
+        "frequency": "116.48",
+        "examples": {
+            "Physics": {
+                "stance": "Tentative (Doubt)",
+                "text": "A more refined calculation by Chibane et al.,39 using eight-atom supercells, predict a large and compositional-dependent positive bowing for the direct gap in Ge-ySnyalloys, in good agreement with the experimental values reported thus far."
+            },
+            "Political Science": {
+                "stance": "Factive (Assurance)",
+                "text": "Political commentators and some academics have for many years been predicting, to quote the title of Tom Nairn’s book (1977), The Break-up of Britain."
+            }
+        }
+    },
+    {
+        "word": "present",
+        "definition": "To offer or display something for consideration or observation, often in a formal or structured manner.",
+        "common_forms": ["present", "presented", "presenting", "presents"],
+        "frequency": "335.53",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Factive (Findings)",
+                "text": "Shrigley presented a “chicken or the egg” scenario in which the influence can be in either direction depending on the prior conditions at the time of the interaction with the attitudinal object."
+            },
+            "Philosophy": {
+                "stance": "Factive (Findings)",
+                "text": "At the 15th World Congress of Philosophy held in 1973, Australian philosopher and logician Richard Routley presented the “last man” thought experiment, inviting us to the view that even if no human beings would be left to benefit from the natural environment, it would still be seriously wrong for the “last man” to arrange its destruction together with his own demise."
+            },
+            "Physics": {
+                "stance": "Non-factive (Assurance)",
+                "text": "In this study the focus is on the pulse shape analysis after the application of a single segment requirement as presented in [9]."
+            },
+            "Political Science": {
+                "stance": "Non-factive (Assurance)",
+                "text": "Several major reports on international policy in the last few years have presented human security as a frame of reference for policy analysis and proposals but their attempts to re-conceptualise security have met with a cautious or sceptical reception in some parts of the academic and policy worlds."
+            }
+        }
+    },
+    {
+        "word": "propose",
+        "definition": "To suggest or put forward an idea, plan, or hypothesis for consideration or discussion, often with the intention of initiating action or further exploration.",
+        "common_forms": ["propose", "proposed", "proposes", "proposing"],
+        "frequency": "104.94",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Tentative (Doubt)",
+                "text": "Mackey proposes a nascent framework for “playing the text” across a range of media (Table 2)."
+            },
+            "Biology": {
+                "stance": "Factive (Assurance)",
+                "text": "Schoener (1989) proposed a modification of this hypothesis, called the ‘productive-space hypothesis’, that predicts food-chain length increases as a function of total ecosystem productivity (the product of ecosystem size and a measure of per-unit-size productivity)."
+            },
+            "Philosophy": {
+                "stance": "Tentative (Doubt)",
+                "text": "Of the many reasons that Rorty has proposed for why we should abandon what I shall call this ‘realist vocabulary of truth’, the one that is of most interest to us here is his belief that it has outlived its usefulness to liberal politics, indeed that it is detrimental to liberal politics."
+            },
+            "Physics": {
+                "stance": "Tentative (Doubt)",
+                "text": "In 1999, Lee and co-workers favored the former interpretation and proposed a model structure for M-DNA."
+            },
+            "Political Science": {
+                "stance": "Factive (Assurance)",
+                "text": "She quotes Robert Ornstein, who wrote that language ‘provides an almost unconsciously agreed on set of categories for experience and allows the speakers of that language to ignore experiences excluded by the common categories’, and she proposes ‘changing the conversation about economics to include the term caring.’"
+            }
+        }
+    },
+    {
+        "word": "provide",
+        "definition": "To supply or furnish something, often in response to a need or request, in order to meet a requirement or fulfill a purpose.",
+        "common_forms": ["provide", "provided", "provides", "providing"],
+        "frequency": "986.81",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Factive (Assurance)",
+                "text": "Morgan has provided a very rare example of using Halliday’s theory to analyze students’ mathematics writing, calling for “[e]xplicit attention to language in the mathematics classroom [so as to] enable students, including those from less privileged backgrounds, to participate in the discourse on an equal basis” (Morgan 1998: 209)."
+            },
+            "Physics": {
+                "stance": "Factive (Findings)",
+                "text": "In particular, recent studies of its emission line properties provide interesting constraints on the nature of the broad-line region (BLR; Laor 2007 and references therein)."
+            },
+            "Political Science": {
+                "stance": "Non-factive (Assurance)",
+                "text": "In its special report of 1950, the Committee on Political Parties of the American Political Science Association (APSA) provides one of the most detailed assessments of the nature of the party system in the United States."
+            }
+        }
+    },
+    {
+        "word": "publish",
+        "definition": "To make something available to the public, often by printing or disseminating it through various media.",
+        "common_forms": ["publish", "published", "publishes", "publishing"],
+        "frequency": "160.14",
+        "examples": {
+            "History": {
+                "stance": "Non-factive (Assurance)",
+                "text": "Florence MacLeod Harper published one of the first books on the collapse of the tsarist autocracy in February 1917, and Rheta Dorr, correspondent for the New York Mail, wrote one of the earliest accounts of the Bolshevik Uprising in July of 1917."
+            },
+            "Physics": {
+                "stance": "Factive (Findings)",
+                "text": "The first differential cross-sections (DCS) for elastic electron scattering were published by Milosavljevic et al [19] in the energy range 20–300 eV for scattering angles ranging from 10 to 110."
+            }
+        }
+    },
+    {
+        "word": "recognize",
+        "definition": "To acknowledge or identify something as familiar or known, often through memory or perception.",
+        "common_forms": ["recognise", "recognised", "recognises", "recognising", "recognize", "recognized", "recognizes", "recognizing"],
+        "frequency": "230.23",
+        "examples": {
+            "Biology": {
+                "stance": "Factive (Findings)",
+                "text": "Interspecific variation in plant susceptibility to herbivores is widely recognized as a critical determinant of plant community structure and composition (Lubchenco and Gaines 1981, Crawley 1997)."
+            },
+            "History": {
+                "stance": "Positive",
+                "text": "Second, we will see that contemporaries recognized that although the probability of a gasholder explosion was very small, its consequences would be terrible."
+            },
+            "Physics": {
+                "stance": "Positive",
+                "text": "It has been widely recognized that gravity waves play a special role in the entire spectrum of atmospheric waves [e.g., Fritts and Alexander, 2003]."
+            },
+            "Political Science": {
+                "stance": "Positive",
+                "text": "Both scholars and policy makers recognize the significant role that Latinos played in the transformation of the workforce and the education and have considered the consequences of this change (Fullerton, 1997; Fullerton & Toossi, 2001; Passel & Suro, 2003; Vernez, 1998, 1999; Vernez, Krop, & Rydell, 1999)."
+            }
+        }
+    },
+    {
+        "word": "refer",
+        "definition": "To mention or allude to something, often as a source of information or support for an argument.",
+        "common_forms": ["refer", "referred", "referring", "refers"],
+        "frequency": "191.46",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Non-factive (Assurance)",
+                "text": "It functions to regulate one’s behaviour and to mediate one’s thinking in what Vygotsky (1978) referred to as the higher mental functions such as voluntary attention, planning, intentional memory, logical thought, problem solving, evaluation, and learning (Lantolf, 2000a)."
+            },
+            "History": {
+                "stance": "Factive (Assurance)",
+                "text": "Penny Von Eschen referred to a “stark and ultimately tragic choice.”"
+            },
+            "Physics": {
+                "stance": "Non-factive (Assurance)",
+                "text": "Events of this kind are referred to as single-site events."
+            },
+            "Political Science": {
+                "stance": "Non-factive (Assurance)",
+                "text": "The Breaking the Cycle Report (2004), for example, had referred to an ‘intergenerational cycle of deprivation’, along with the ‘transmission’ and ‘inheritance’ of disadvantage."
+            }
+        }
+    },
+    {
+        "word": "reflect",
+        "definition": "To show, represent, or express a particular characteristic or outcome of something, often indicating a deeper or underlying aspect; to think deeply or consider carefully.",
+        "common_forms": ["reflect", "reflected", "reflecting", "reflects"],
+        "frequency": "256.65",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Neutral",
+                "text": "Results from the adapted version of the Vocabulary Knowledge Scale (VKS), (Paribakht and Wesche 1993), reflected only self-reported memory for having seen the TWs within the stories, which is regarded as an initial stage in vocabulary acquisition."
+            },
+            "History": {
+                "stance": "Neutral",
+                "text": "The local catholic newspaper, Il Popolo di Siena, also reflected the strong rapport between the Sienese church and fascism."
+            },
+            "Political Science": {
+                "stance": "Neutral",
+                "text": "One of the major dimensions of cross-cultural variation found in these surveys reflects the polarization between Survival values (which tend to be emphasized by those for whom survival is relatively insecure) and Self-expression values (emphasized by those who take survival for granted)."
+            }
+        }
+    },
+    {
+        "word": "regard",
+        "definition": "To consider or view something in a particular way, often based on one’s perception or judgment.",
+        "common_forms": ["regard", "regarded", "regarding", "regards"],
+        "frequency": "75.48",
+        "examples": {
+            "Philosophy": {
+                "stance": "Positive",
+                "text": "However, autoimmunity is now regarded as a normal physiological function of the immune system, not so much in the Jernian sense, but rather because immunocytes and their products survey and contribute to normal body economy."
+            },
+            "Physics": {
+                "stance": "Positive",
+                "text": "One basic difference is that high Tc superconductors can be regarded as doped Mott insulators [1] due to their common structure, namely the CuO planes, whether electron- or hole-doped."
+            },
+            "Political Science": {
+                "stance": "Positive",
+                "text": "Gerald Solomon (R-NY) regarded the policy of “unlinked granting of MFN” as tantamount to “appeasement to Communist China” (p. 9)."
+            }
+        }
+    },
+    {
+        "word": "report",
+        "definition": "To convey information or findings about a subject in a factual and objective manner, often based on research or investigation.",
+        "common_forms": ["report", "reported", "reporting", "reports"],
+        "frequency": "473.99",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Non-factive (Assurance)",
+                "text": "Such an investigation is reported by Hill (1996) and Brown and Lumley (1998), both referring to the development of an English proficiency test for Indonesian teachers of English."
+            },
+            "Biology": {
+                "stance": "Non-factive (Assurance)",
+                "text": "Previous studies have reported the requirement of Cdc and Rac for Salmonella-induced actin cytoskeleton remodeling, macropinocytosis, and MAPK activation (Chen et al., 1996a; Hardt et al., 1998)."
+            },
+            "History": {
+                "stance": "Non-factive (Assurance)",
+                "text": "This event has been reported by historians, and even celebrated by poets, as a contest between an encroaching colonial administration and a “pretender” to the Zanzibar throne (Lyne 1936:147; Mutafi1957:66; Bennett 1978)."
+            },
+            "Physics": {
+                "stance": "Factive (Findings)",
+                "text": "Using RPT, some attempts to predict the nonlinear evolution of BAOs has been reported (Crocce & Scoccimarro 2007)."
+            },
+            "Political Science": {
+                "stance": "Non-factive (Assurance)",
+                "text": "One other study has reported somewhat different patterns (Grabb and Curtis, 2005: chap. 11)."
+            }
+        }
+    },
+    {
+        "word": "reproduce",
+        "definition": "To create a copy or duplicate of something, often in order to replicate or recreate it.",
+        "common_forms": ["reproduce", "reproduced", "reproduces", "reproducing"],
+        "frequency": "23.99",
+        "examples": {
+            "Physics": {
+                "stance": "Procedures (Findings)",
+                "text": "The inclusion of leading-order correction to the nonlinear clustering effect somehow improves a performance and reproduces the N-body results very well (Jeong & Komatsu 2006)."
+            }
+        }
+    },
+    {
+        "word": "reveal",
+        "definition": "To make something known or visible that was previously hidden or unknown, often through disclosure or unveiling.",
+        "common_forms": ["reveal", "revealed", "revealing", "reveals"],
+        "frequency": "213.19",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Factive (Findings)",
+                "text": "Existing studies (Huang 1995; Mohan and Huang 2002; Huang and Morgan 2003) reveal that different knowledge structures are linguistically constructed in a systematic way through distinct linguistic features, as shown in Table 2."
+            },
+            "Biology": {
+                "stance": "Factive (Findings)",
+                "text": "Numerous studies have revealed cryptic diversity within such species (Taylor et al. 1998; Knowlton 2000; Rocha-Olivares et al. 2001), and failure to appreciate this pattern can undermine efforts to reconstruct evolutionary processes and speciation patterns)."
+            },
+            "History": {
+                "stance": "Factive (Findings)",
+                "text": "It also revealed how East Germans, after the building of the Berlin Wall, transformed outright renunciation of the GDR into citizens’ initiatives with limited goals"
+            },
+            "Physics": {
+                "stance": "Factive (Findings)",
+                "text": "An electron diffraction study of the alkanes n-butane through n-heptane by Bartell and Kohl revealed that the gas-phase conformations often contain gauche dihedral angles, with relatively high populations of conformers with single gauche bonds for n-pentane, n-hexane, and n-heptane."
+            }
+        }
+    },
+    {
+        "word": "review",
+        "definition": "To examine or assess something critically or systematically, often in order to evaluate its quality or significance.",
+        "common_forms": ["review", "reviewed", "reviewing", "reviews"],
+        "frequency": "100.34",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Procedures (Findings)",
+                "text": "Slavin and Cheung (2003) reviewed experimental studies of reading programs for ELLs using a best-evidence synthesis, focusing on “comparisons of bilingual and English-only programs and on specific, replicable models that have been evaluated with English language learners” (p. v)."
+            },
+            "Biology": {
+                "stance": "Procedures (Findings)",
+                "text": "Studies conducted so far have shown that inoculation has potential to foster the natural recovery rates of biological soil crusts in these areas, as it enhances recovery rates of cyanobacterial and lichen biomass (reviewed by [11])."
+            },
+            "Physics": {
+                "stance": "Procedures (Findings)",
+                "text": "For light quarks there may be substantial corrections, estimated in [3] and reviewed in [4]."
+            }
+        }
+    },
+    {
+        "word": "say",
+        "definition": "To express or communicate something verbally, often in speech or writing.",
+        "common_forms": ["said", "say", "saying", "says"],
+        "frequency": "844.05",
+        "examples": {
+            "History": {
+                "stance": "Non-factive (Assurance)",
+                "text": "As the author of the most penetrating study of their methods to date, James Given, says, ‘The inquisitors were not mere slaves of reality. Their investigative techniques allowed them to create their own, tailor-made truth. Through their interrogation procedures the inquisitors could make concrete the ideas, fears and fantasies that resided only in their own minds. In a sense they could make these phantasms objectively real.’"
+            },
+            "Philosophy": {
+                "stance": "Non-factive (Assurance)",
+                "text": "As Williams says, “to the extent that we lose a sense of the value of truth, we shall certainly lose something and may well lose everything”."
+            },
+            "Political Science": {
+                "stance": "Non-factive (Assurance)",
+                "text": "Conventional economic analysis and theories, both capitalist and communist, she says, have failed successfully to address problems, such as environmental degradation, poverty and terrorism, which divert and destroy economic and human resources."
+            }
+        }
+    },
+    {
+        "word": "see",
+        "definition": "To perceive or understand something through observation or experience, often involving visual or mental recognition.",
+        "common_forms": ["saw", "see", "seeing", "seen", "sees"],
+        "frequency": "1278.76",
+        "examples": {
+            "History": {
+                "stance": "Neutral",
+                "text": "In particular, they see the concentration on factory or even merchant time as gendered and Eurocentric, because it ignores women’s time and non-Western, pre-industrial people’s time."
+            },
+            "Physics": {
+                "stance": "Non-factive (Findings)",
+                "text": "That this basis is not the same as the basis we introduce here is easily seen [2]."
+            },
+            "Political Science": {
+                "stance": "Positive",
+                "text": "In these delicate situations, truth commissions have come to be seen as a valuable tool to balance demands for accountability for past human rights abuses with the fact that perpetrators often retain some influence over the course of the transition."
+            }
+        }
+    },
+    {
+        "word": "seek",
+        "definition": "To attempt to find or obtain something, often through effort or inquiry.",
+        "common_forms": ["seek", "seeked", "seeking", "seeks", "sought"],
+        "frequency": "255.40",
+        "examples": {
+            "History": {
+                "stance": "Neutral",
+                "text": "None of these historians sought to understand what was taking place, or why or how it might be a reflection of a royal policy in full force at the time."
+            },
+            "Political Science": {
+                "stance": "Procedures (Findings)",
+                "text": "Contrastingly, Baumgartner and Jones’ (1993) notion of punctuated equilibrium seeks to explain significant changes in the policy process."
+            }
+        }
+    },
+    {
+        "word": "show",
+        "definition": "To present data, facts, or results to demonstrate a particular phenomenon or relationship.",
+        "common_forms": ["show", "showed", "showing", "shown", "shows"],
+        "frequency": "701.15",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Factive (Findings)",
+                "text": "Entwisle’s study (1966: 59) shows a similar influence of word class on response types: nouns resulted in 77% paradigmatic responses; verbs resulted in 60% and adjectives in 66% paradigmatic responses."
+            },
+            "Biology": {
+                "stance": "Factive (Findings)",
+                "text": "Previous research has shown that the gametophyte and sporophyte phases of isomorphic species can have significantly different per capita demographic rates in the field (Engel et al. 2001, Thornber and Gaines 2004)."
+            },
+            "History": {
+                "stance": "Factive (Findings)",
+                "text": "The professions represented a vital authority in French society, as historians Jack Ellis and Christophe Charle have shown, exercising their will in the social, economic, and political domains."
+            },
+            "Philosophy": {
+                "stance": "Tentative (Doubt)",
+                "text": "This is supposed to show that nonhuman nature has significant value independent of human existence and purposes."
+            },
+            "Physics": {
+                "stance": "Factive (Findings)",
+                "text": "Models of solar-like stars show a stronger depletion of lithium than the observed ones (Ventura et al. 1998; Piau & Turck-Chie’ze 2002), with a great dependence on the internal composition (see also Sestito et al. 2006) and on dynamical processes."
+            },
+            "Political Science": {
+                "stance": "Factive (Findings)",
+                "text": "One such study looked at evidence for 1987, 1997 and 2000, and showed that Quebecers had the lowest levels of voluntary association membership in all three years (Reed and Selbee, 2001a: 17; see also Caldwell and Reed, 1999: 217; Hall et al., 2001: 36, 52; Reed and Selbee, 2001b: 30)."
+            }
+        }
+    },
+    {
+        "word": "solve",
+        "definition": "To find a solution or answer to a problem or puzzle, often through reasoning or analysis.",
+        "common_forms": ["solve", "solved", "solves", "solving"],
+        "frequency": "68.13",
+        "examples": {
+            "Physics": {
+                "stance": "Factive (Findings)",
+                "text": "In [5] and following papers, D’Hoker and Phong explicitly solved the problems outlined before for the two loop vacuum to vacuum amplitude, giving an explicit expression for the two loop measure in terms of theta constants."
+            }
+        }
+    },
+    {
+        "word": "speak",
+        "definition": "To communicate verbally or orally; to convey or reflect an idea",
+        "common_forms": ["speak", "speaking", "speaks", "spoke", "spoken"],
+        "frequency": "192.15",
+        "examples": {
+            "History": {
+                "stance": "Non-factive (Findings)",
+                "text": "But while these concepts and frameworks speak to the general principles and relationships that distinguish Aboriginal self-government and self-governing arrangements from other federal forms, they do not offer a model for understanding the specific political and intergovernmental dynamics of the proposed system in Nunavik."
+            }
+        }
+    },
+    {
+        "word": "state",
+        "definition": "To express or declare something clearly and explicitly, often in writing or speech.",
+        "common_forms": ["state", "stated", "states", "stating"],
+        "frequency": "276.4",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Non-factive (Assurance)",
+                "text": "On the other hand, Bialystok (1991, 2001) stated that formally learned grammatical knowledge can eventually become automatic and that metalinguistic knowledge can positively influence L2 acquisition."
+            },
+            "History": {
+                "stance": "Non-factive (Assurance)",
+                "text": "The Cynic Diogenes, for example, stated that he was “a cosmopolite”: “a citizen of the world.”"
+            },
+            "Philosophy": {
+                "stance": "Non-factive (Assurance)",
+                "text": "The problem may be stated as follows."
+            },
+            "Physics": {
+                "stance": "Non-factive (Assurance)",
+                "text": "They are mainly related to the large condensation energy that is not removed and which will lead to ionization, the non-circular (in fact, low-l) Rydberg states formed by laser excitation, the lack of coplanar and coherent motion of the Rydberg electrons in neighbouring Rydberg atoms, the much too low density of Rydberg states formed by laser excitation, the lack of matching of the interionic distances with the intended bond length given by the specific excitation level and the lack of methods in the experiments to detect RM."
+            },
+            "Political Science": {
+                "stance": "Non-factive (Assurance)",
+                "text": "Ben Porath (1975) states that people with more education may anticipate changes earlier and form more realistic expectations."
+            }
+        }
+    },
+    {
+        "word": "stress",
+        "definition": "To emphasize or place special importance on something, often by repeating or highlighting it.",
+        "common_forms": ["stress", "stressed", "stresses", "stressing"],
+        "frequency": "52.03",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Factive (Assurance)",
+                "text": "Coldron and Smith (1999) stress the importance of agency over social structure and argue that the choices that teachers make constitute their professional identities."
+            },
+            "History": {
+                "stance": "Factive (Assurance)",
+                "text": "It has stressed colonized agency and demonstrated how colonial power was created and maintained not only through politics or economics, but through discourses the colonizers constructed of colonial peoples, places, and projects and imposed on the minds of the colonizer and colonized alike."
+            }
+        }
+    },
+    {
+        "word": "study",
+        "definition": "To infer or derive a conclusion from evidence or reasoning, often by logical deduction or inference.",
+        "common_forms": ["studied", "studies", "study", "studying"],
+        "frequency": "167.37",
+        "examples": {
+            "Physics": {
+                "stance": "Procedures (Findings)",
+                "text": "The smectic-A to nematic (SmA-N) and nematic to isotropic (N-I) transitions of 8CB have been studied for decades."
+            },
+            "Political Science": {
+                "stance": "Procedures (Findings)",
+                "text": "One of the most influential relationships studied in the field of political participation is that between citizenship and public policy."
+            }
+        }
+    },
+    {
+        "word": "suggest",
+        "definition": "To propose or indicate an idea or possibility without asserting it as definite or proven, often based on evidence or observations.",
+        "common_forms": ["suggest", "suggested", "suggesting", "suggests"],
+        "frequency": "529.4",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Tentative (Doubt)",
+                "text": "Howarth’s findings also suggest that out of the three collocational groups restricted collocations, free collocations, and idioms learners seem to experience most difficulties in producing restricted collocations."
+            },
+            "Biology": {
+                "stance": "Tentative",
+                "text": "Soule and Sanjayan (1998) suggest the basis for these commonly used percentage targets is the species area relation (MacArthur & Wilson 1967), whereby a 50% loss of species would be expected from a 90% loss of habitat area, making half of all species vulnerable to extinction."
+            },
+            "History": {
+                "stance": "Tentative (Doubt)",
+                "text": "Agamben goes on to suggest that subjects of sovereign power are stripped of their political personhood, and live the “bare life” in the thrall of sovereign power. Hence, it is not the sovereign, but the subject whose body exists beyond the pale of true political life and the rule of law (Agamben 1998:182–183)."
+            },
+            "Philosophy": {
+                "stance": "Tentative (Doubt)",
+                "text": "In the wider political culture, it is frequently suggested that those who attend to relativities have simply failed to understand the benefits of growth; that attention should properly focus solely on the absolute position of the worst off and not at all on the extent of the inequality between her and others."
+            },
+            "Physics": {
+                "stance": "Tentative (Doubt)",
+                "text": "Fritz et al. suggested that electrostatic, steric, and hydrophobic interactions among immobilized molecules are responsible for the cantilever deflection."
+            },
+            "Political Science": {
+                "stance": "Tentative (Doubt)",
+                "text": "While this analysis was not intended to compare all of Canada’s regions or to include multivariate controls, its findings are quite important in suggesting that there may be a significant interaction between region and language."
+            }
+        }
+    },
+    {
+        "word": "summarize",
+        "definition": "To briefly restate the main points or ideas of something, often in a condensed form or manner.",
+        "common_forms": ["summarise", "summarised", "summarises", "summarising", "summarize", "summarized", "summarizes", "summarizing"],
+        "frequency": "44.05",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Non-factive (Assurance)",
+                "text": "Alderson (1984) summarizes related research and concludes that L2 reading is both a language and a reading problem, but finds firmer evidence that it is a language problem, especially for those with low-level foreign language competence."
+            },
+            "History": {
+                "stance": "Non-factive (Assurance)",
+                "text": "Cooper devoted two pages of an article to the case, briefly summarizing it as an example of the cruel treatment of citizens meted out by Henry’s ministers."
+            },
+            "Physics": {
+                "stance": "Non-factive (Assurance)",
+                "text": "In addition to being discussed by Schrodinger in incisive detail in “his original article [1], Zitterbewegung in the four-component Dirac basis has been extensively addressed in books devoted to the the Dirac equation, such as Rose [9] and Thaller [10] (who summarizes Schrodinger’s approach and references many of the important papers on the subject), as well as by Honl and Papapetrou [11] in a paper that first analyzes Zitterbewegung in detail and then attempts to mimic the effects of Zitterbewegung with a mechanical model based on a classical point charge."
+            },
+            "Political Science": {
+                "stance": "Non-factive (Assurance)",
+                "text": "This approach fits well with the analysis given by Des Gasper (2005) in his paper summarising the various alternatives used to define human security in recent articles and debate."
+            }
+        }
+    },
+    {
+        "word": "support",
+        "definition": "To provide evidence or reasons in favor of a particular idea or claim, often to strengthen its validity or credibility.",
+        "common_forms": ["support", "supported", "supporting", "supports"],
+        "frequency": "376.65",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Positive",
+                "text": "The work of Gernsbacher and colleagues has supported the hypothesis that listening and reading comprehension are based on general cognitive processes and mechanisms."
+            },
+            "History": {
+                "stance": "Tentative",
+                "text": "Until the emergence of the “post-Orientalism” generation of scholars, however, the epistemological assumptions and requirements of the modernity / globalization matrix supported the assumption among the scholarly community that the Ottoman Empire, and Palestine specifically, was a stagnant and backward land mired in poverty and awaiting its “redemption” by fully modern European, and specifically Zionist Jewish, pioneers."
+            },
+            "Physics": {
+                "stance": "Positive",
+                "text": "Basically, our findings in [8] were supported by the original CTMC calculations [9, 10], and shed light on the details of the dynamics of ionization."
+            },
+            "Political Science": {
+                "stance": "Positive",
+                "text": "Particularly at the national level, a number of solid empiric studies have emerged to support the theoretical modeling of the agenda process outlined by Kingdon (1995), Cobb and Elder (1971), and Baumgartner and Jones (1993, 2002)."
+            }
+        }
+    },
+    {
+        "word": "survey",
+        "definition": "To examine or investigate a group of people or things systematically, often through questioning or observation.",
+        "common_forms": ["survey", "surveyed", "surveying", "surveys"],
+        "frequency": "32.5",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Procedures (Findings)",
+                "text": "Laufer (2003) surveys a large body of evidence that finds that word-focused tasks with or without reading result in consistently greater gains in word knowledge compared to reading alone."
+            }
+        }
+    },
+    {
+        "word": "test",
+        "definition": "To evaluate or examine something by subjecting it to trial or experimentation, often in order to assess its qualities or capabilities.",
+        "common_forms": ["test", "tested", "testing", "tests"],
+        "frequency": "300.67",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Procedures (Findings)",
+                "text": "Brecht et al. (1993) were later included in a collection of quantitative and qualitative studies compiled and edited by Freed (1995) that tested popular beliefs about language learning in a study-abroad environment and set the agenda for years of research in that area."
+            },
+            "Physics": {
+                "stance": "Procedures (Findings)",
+                "text": "Previously, the OPLS all-atom (OPLS-AA) force field was tested in MC simulations only for the alkanes ethane, propane, butane, isobutane, and cyclohexane."
+            },
+            "Political Science": {
+                "stance": "Procedures (Findings)",
+                "text": "Furthermore, a 1996 study tested the significance of marital status, gender, ethnic group, number of working hours, nature of employment, employment of hired labour and type of education (Coulombe and Mckay, 1996)."
+            }
+        }
+    },
+    {
+        "word": "think",
+        "definition": "To form opinions or judgments through reasoning or mental processes, often based on information or beliefs.",
+        "common_forms": ["think", "thinking", "thinks", "thought"],
+        "frequency": "437.88",
+        "examples": {
+            "Philosophy": {
+                "stance": "Positive (Cognition)",
+                "text": "But Rorty thinks that realist metaphysics, insofar as they are a leftover from a religious worldview, are something that we can now do without."
+            },
+            "Political Science": {
+                "stance": "Positive (Cognition)",
+                "text": "Tony Smith thinks that the only problem with Wilson’s legacy was his unwillingness to confront the need for extensive social and economic change following the use of force (Smith 1994:80)."
+            },
+            "Political Science_2": {
+                "stance": "Tentative (Cognition)",
+                "text": "For years, Canadian political scientists have identified a number of social cleavages which have been thought to have a substantial impact on citizens’ attitudes, opinions, and vote choice."
+            },
+            "Political Science_3": {
+                "stance": "Neutral (Cognition)",
+                "text": "Simply put, it has been widely thought that social group membership affects political actions and political behaviour by structuring the way that individuals see and interpret the political world."
+            }
+        }
+    },
+    {
+        "word": "undermine",
+        "definition": "To weaken or subvert something, often by eroding its foundation or credibility.",
+        "common_forms": ["undermine", "undermined", "undermines", "undermining"],
+        "frequency": "42.28",
+        "examples": {
+            "History": {
+                "stance": "Counters (Author focused)",
+                "text": "Over the past fifteen years, however, scholars have undermined this interpretation, noting not only the variety of time disciplines in both Europe and North America, but also the many origins of this behavior"
+            }
+        }
+    },
+    {
+        "word": "understand",
+        "definition": "To comprehend or grasp the meaning or significance of something, often through analysis or explanation.",
+        "common_forms": ["understand", "understanding", "understands", "understood"],
+        "frequency": "376.49",
+        "examples": {
+            "History": {
+                "stance": "Positive",
+                "text": "Instead, we now understand that the century leading up to Tel Aviv’s establishment witnessed a process of institutional and economic centralization-cum-modernization by the Ottoman state that would have a profound effect on the development of Palestine, providing the fertilizer that enabled both Jaffa’s increasing prosperity and Tel Aviv and Zionism’s blossoming on Jaffan soil."
+            },
+            "Philosophy": {
+                "stance": "Positive",
+                "text": "The problem of moral status, as it is generally understood, is to determine which entities are owed treatment in accordance with moral norms."
+            },
+            "Physics": {
+                "stance": "Positive",
+                "text": "Clearly, there have been many efforts to understand the structure and electronic properties of M-DNA, but both issues, and others, still remain unclear."
+            },
+            "Political Science": {
+                "stance": "Positive",
+                "text": "Social factors are also understood to explain the formation of party systems."
+            }
+        }
+    },
+    {
+        "word": "undertake",
+        "definition": "To take on or begin a task or responsibility, often with determination or commitment.",
+        "common_forms": ["undertake", "undertaken", "undertakes", "undertaking", "undertook"],
+        "frequency": "49.09",
+        "examples": {
+            "Political Science": {
+                "stance": "Procedures (Findings)",
+                "text": "Comparable data at the cross-country level on achievement and quality are less readily available, although a number of cross-national studies on school achievement have been undertaken, including studies undertaken since 1963 by the International Association for the evaluation of Educational Achievement (IEA)."
+            }
+        }
+    },
+    {
+        "word": "use",
+        "definition": "To employ or utilize something for a particular purpose or in a particular way, often as part of a process or method.",
+        "common_forms": ["use", "used", "uses", "using"],
+        "frequency": "1821.04",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Procedures (Findings)",
+                "text": "Burstein, Kukich, Wolff, Lu and Chodorow (1998) used discourse markers, in addition to syntactic information and topical content vector analyses, to mark essays because the total number of discourse markers reflects the general coherence and unity of the essay."
+            },
+            "History": {
+                "stance": "Procedures (Findings)",
+                "text": "Since then this term has been used in the study of public reactions to circumstances of social and political change at various historical moments."
+            },
+            "History_2": {
+                "stance": "Non-factive (Assurance)",
+                "text": "When originally used by the British sociologist Stanley Cohen, the term ‘moral panic’ referred to a two-sided process during which something (an episode, a condition, a person or a group), designated by the mass media as a ‘threat to social values and behaviour’, provoking exaggerated reactions, constituted simultaneously a model for those who did not identify with the dominant social norms."
+            },
+            "Physics": {
+                "stance": "Procedures (Findings)",
+                "text": "In ref 8, Di Felice et al. used ab initio techniques to investigate the guanine-Zn-cytosine base pair model shown in Figure 1."
+            },
+            "Political Science": {
+                "stance": "Procedures (Findings)",
+                "text": "Understandably, then, researchers have frequently used region and language as key factors when studying voluntary association activity in Canada."
+            }
+        }
+    },
+    {
+        "word": "utilize",
+        "definition": "To make use of something effectively or efficiently, often in order to achieve a specific purpose or goal.",
+        "common_forms": ["utilise", "utilised", "utilises", "utilising", "utilize", "utilized", "utilizes", "utilizing"],
+        "frequency": "62.16",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Procedures (Findings)",
+                "text": "An approach to discourse analysis called Knowledge Structure Analysis, based on Mohan’s framework, has been utilized to analyze students’ written discourse in science (e.g. Huang 2000; Huang and Morgan 2003; Mohan et al. ms.), oral discourse in mathematics (Huang and Normandia 2003; Huang, Normandia and Greer 2005), and both oral and written discourse in the context of learning Chinese as a foreign language (Mohan and Huang 2002)."
+            },
+            "History": {
+                "stance": "Procedures (Findings)",
+                "text": "A number of scholars have previously utilized Foucault’s concept of governmentality (Foucault 1991) to argue that colonialism is a kind of statecraft, whose principal aim is to generate forms of knowledge about subject peoples (Cohn 1996; Wagoner 2003), enabling colonizers to identify, register and discipline subject peoples in terms of new or preexisting European colonial constructions of domesticity (Comaroff and Comaroff 1992), morality (Stoler 1992) and civilization” (Hall 2002)."
+            },
+            "Physics": {
+                "stance": "Procedures (Findings)",
+                "text": "A renewable resource raw material cardanol, which is an industrial waste and pollutant from cashew nut industry, is utilized for synthesizing new amphiphilic azobenzenesulfonic acid."
+            },
+            "Political Science": {
+                "stance": "Procedures (Findings)",
+                "text": "Country, as well as state, village and household-level data have been utilised in these studies to explain poverty."
+            }
+        }
+    },
+    {
+        "word": "view",
+        "definition": "To consider or regard something in a particular way, often based on one’s perspective or opinion.",
+        "common_forms": ["view", "viewed", "views", "viewing"],
+        "frequency": "148.14",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Neutral",
+                "text": "Fazio (2000) viewed attitudes as having an object appraisal function that is dependent on the accessibility of the attitude object in the individual’s mind."
+            },
+            "History": {
+                "stance": "Neutral",
+                "text": "Some historians have viewed the NAACP’S anticommunism as timid and opportunistic but conceded that it preserved the organization and its program throughout the McCarthy years."
+            },
+            "Political Science": {
+                "stance": "Tentative",
+                "text": "Partisanship can also be viewed as “constituency differences translated into issues” (Davidson & Oleszek, 1990, p. 130)."
+            }
+        }
+    },
+    {
+        "word": "warn",
+        "definition": "To advise or caution someone about a potential danger or problem, often in order to prevent harm or undesirable consequences.",
+        "common_forms": ["warn", "warned", "warning", "warns"],
+        "frequency": "27.93",
+        "examples": {
+            "Applied Linguistics": {
+                "stance": "Counters (Author Focused)",
+                "text": "As Spack (1997) warns, relying too heavily on institutionally ascribed labels can lead us “to make inaccurate predictions about what students are likely to do as a result of their language or cultural background”."
+            },
+            "Political Science": {
+                "stance": "Factive (Assurance)",
+                "text": "Congress but will harden the Chinese government’s resolve,” warned Ways and Means Chairman Dan Rostenkowski (Congressional Quarterly, 1991b)."
+            }
+        }
+    },
+    {
+        "word": "write",
+        "definition": "To create or compose text by forming letters, words, or symbols, often as a means of communication or expression.",
+        "common_forms": ["write", "writes", "writing", "written", "wrote"],
+        "frequency": "460.05",
+        "examples": {
+            "History": {
+                "stance": "Non-factive (Assurance)",
+                "text": "In North American history, the slave narrative has won a significant place in both popular and academic studies of slavery, transforming how historians write about the “peculiar institution”."
+            },
+            "Political Science": {
+                "stance": "Non-factive (Assurance)",
+                "text": "Mutz and Reeves, for example, write that there is “widespread concern in the United States about a ‘civility crisis’ in public life” (2005, 1)."
+            }
+        }
+    }
+]
